@@ -3,5 +3,5 @@ class APIUrls {
   static const String oneweekMenu = 'menu-next-seven-days';
 
   static const String fetchURL =
-      'https://raw.githubusercontent.com/connectednatural/menuapp_urls/main/urls.json';
+      'https://raw.githubusercontent.com/sasanktumpati/menuapp/refs/heads/main/data/menu/menudata.json';
 }
