@@ -28,26 +28,21 @@ endif
 	flutter build web --base-href $(BASE_HREF) --release
 
 	@echo "Preparing deployment folder..."
-	# Create the deployment folder if it doesn't exist
 	if not exist "$(DEPLOY_DIR)" mkdir "$(DEPLOY_DIR)"
 
-	# Clear the deployment folder
+
 	rm -rf "$(DEPLOY_DIR)/*"
 
-	# Copy the built web files to the deployment folder
 	cp -R build/web/* "$(DEPLOY_DIR)"
 
 	@echo "Deployment files are ready in: $(DEPLOY_DIR)"
 
 	@echo "Committing deployment files to branch $(BRANCH)..."
-	# Check out the target branch or create it if it doesn't exist
 	git checkout $(BRANCH) || git checkout -b $(BRANCH)
 
-	# Add deployment files
 	git add $(DEPLOY_DIR)
 	git commit -m "Deploy Version $(BUILD_VERSION)" || echo "No changes to commit"
 
-	# Push to the branch
 	git push origin $(BRANCH)
 
 	@echo "Deployment complete!"
