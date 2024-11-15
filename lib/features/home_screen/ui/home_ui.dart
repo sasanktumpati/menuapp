@@ -95,7 +95,10 @@ class _MenuScreenState extends ConsumerState<MenuScreen> {
       },
       loading: () => Scaffold(
         appBar: AppBar(
-          title: Text('Weekly Menu', style: GoogleFonts.poppins()),
+          title: Text('Weekly Menu',
+              style: GoogleFonts.poppins(
+                fontWeight: FontWeight.bold,
+              )),
           centerTitle: true,
         ),
         body: const Center(child: CircularProgressIndicator()),
