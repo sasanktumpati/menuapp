@@ -1,0 +1,66 @@
+name: Fetch and Update Menu
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Create directory if it does not exist
+        run: mkdir -p data/menu/
+
+      - name: Fetch menu data and save to file
+        run: |
+          python -c "
+          import requests
+          import json
+
+          url = 'https://api.ssms-pilani.in/menu-next-seven-days'
+          try:
+              response = requests.get(url, verify=False)
+              response.raise_for_status()
+              file_path = 'data/menu/menudata.json'  
+              with open(file_path, 'w') as f:
+                  json.dump(response.json(), f, indent=2)
+              print(f'Menu data fetched and saved to {file_path}')
+          except requests.RequestException as e:
+              print(f'Error fetching menu data: {e}')
+              exit(1)
+          "
+
+      - name: Check if there are changes and commit with date and time
+        env:
+          USER_EMAIL: sasanktumpati16@gmailcom
+          USER_NAME: sasanktumpati
+        run: |
+          git config --local user.email "$USER_EMAIL"
+          git config --local user.name "$USER_NAME"
+          git add your/new/path/filename.json  # Update the file path here
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping commit."
+          else
+            DATE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
+            git commit -m "Update menu data - $DATE_TIME"
+            git push
+          fi
+        shell: bash
