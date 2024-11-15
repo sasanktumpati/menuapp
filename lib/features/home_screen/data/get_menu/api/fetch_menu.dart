@@ -1,6 +1,7 @@
 import 'dart:developer';
 
 import 'package:dartz/dartz.dart';
+import 'package:flutter/foundation.dart';
 
 import '../../../../../constants/urls.dart';
 import '../../../../../services/network/dio_client.dart';
@@ -16,9 +17,21 @@ class MenuService {
       : _networkReqHandler = networkReqHandler ?? NetworkRequestHandler();
 
   Future<Either<Failure, List<MenuResponseModel>>> fetchMenu() async {
+    final String url;
+    if (kDebugMode) {
+      url = APIUrls.menuURLDev;
+    } else {
+      url = APIUrls.menuURLProd;
+    }
+
     final request = NetworkRequest(
-      url: APIUrls.fetchURL,
+      url: url,
       path: "",
+      headers: {
+        'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
+        'Pragma': 'no-cache',
+        'Expires': '0',
+      },
     );
 
     try {
