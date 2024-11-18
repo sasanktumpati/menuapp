@@ -1,7 +1,6 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-
 import 'package:fluttertoast/fluttertoast.dart';
 
 void debugLog(
@@ -35,18 +34,15 @@ void logger(
   Color backgroundColor = Colors.black,
   Color textColor = Colors.white,
 }) {
-  String logMsg = "$logTag: $msg";
-
   if (showToast) {
     Fluttertoast.showToast(
-      msg: logMsg,
+      msg: msg.toString(),
       backgroundColor: backgroundColor,
       textColor: textColor,
       fontSize: 16.0,
     );
-    log("$logMsg\n");
+    log("$msg", name: logTag);
   } else {
-    // Log to console
-    log("$logMsg\n");
+    log("$msg", name: logTag);
   }
 }
