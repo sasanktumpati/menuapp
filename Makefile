@@ -28,8 +28,7 @@ endif
 	flutter build web --base-href $(BASE_HREF) --release
 
 	@echo "Preparing deployment folder..."
-	if not exist "$(DEPLOY_DIR)" mkdir "$(DEPLOY_DIR)"
-
+	@if [ ! -d "$(DEPLOY_DIR)" ]; then mkdir "$(DEPLOY_DIR)"; fi
 
 	rm -rf "$(DEPLOY_DIR)/*"
 
