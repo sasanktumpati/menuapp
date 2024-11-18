@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -24,16 +22,15 @@ class NetworkRequestHandler {
               ),
             );
 
-  Future<Either<Failure, T>> getRequest<T>({
+  Future<Either<Failure, Response>> getRequest({
     required NetworkRequest request,
     required String logTag,
-    required String logmsg,
-    T Function(dynamic data)? fromJson,
+    required String logMsg,
     CancelToken? cancelToken,
   }) async {
     debugLog(
       logTag,
-      "Starting GET request to ${request.url}\nMessage: $logmsg",
+      "Starting GET request to ${request.url}\nMessage: $logMsg",
     );
     final options = Options(headers: request.headers);
 
@@ -56,13 +53,11 @@ class NetworkRequestHandler {
         );
       }
 
-      final data = jsonDecode(response.data);
-
       debugLog(
         logTag,
         "Request successful with status code: ${response.statusCode}",
       );
-      return Right(data);
+      return Right(response);
     } on DioException catch (e) {
       debugLog(logTag, "DioException occurred: ${e.message}");
       return Left(_handleDioException(e));
