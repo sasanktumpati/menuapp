@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-17",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg poha",
-      "Sev",
-      "Onion + lemon",
-      "Cut pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer butter m/s",
-      "Chicken home style",
-      "Naan/ chapati(ltd)",
-      "Veg pulao",
-      "Boondi raita",
-      "Butter scotch i/c"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Aloo capsicum",
-      "Dhaba dal",
-      "Chapati",
-      "Plain rice",
-      "Tomato soup"
-    ]
-  },
-  {
     "date": "2024-11-18",
     "day": "Monday",
     "breakfast": [
@@ -215,6 +183,38 @@
       "Chapati",
       "Plain rice",
       "Gulab jamun"
+    ]
+  },
+  {
+    "date": "2024-11-24",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg poha",
+      "Sev ",
+      "Cut onion + lemon",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer lababdar",
+      "Kadhai chicken ",
+      "Naan/ chapati(ltd)",
+      "Veg biryani pulao",
+      "Pineapple raita"
+    ],
+    "dinner": [
+      "Mix salad",
+      "Dum aloo ",
+      "Butter dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Moong dal halwa",
+      "Cabbage tomato soup"
     ]
   }
 ]
