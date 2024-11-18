@@ -1,4 +1,8 @@
 class LogTags {
+  // Connection Checker
+  static const String connectionChecker = 'Connection Checker';
+
+  // Network
   static const String networkRequest = 'Network Request';
   static const String networkResponse = 'Network Response';
   static const String exception = 'An Unknown Exception occured';

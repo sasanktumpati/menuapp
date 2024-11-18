@@ -1,4 +1,4 @@
-import 'dart:developer';
+import 'dart:convert';
 
 import 'package:dartz/dartz.dart';
 import 'package:flutter/foundation.dart';
@@ -27,19 +27,18 @@ class MenuService {
     final request = NetworkRequest(
       url: url,
       path: "",
-      // headers: {
-      //   'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
-      //   'Pragma': 'no-cache',
-      //   'Expires': '0',
-      // },
+      headers: {
+        'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
+        'Pragma': 'no-cache',
+        'Expires': '0',
+      },
     );
 
     try {
-      final result = await _networkReqHandler.getRequest<List>(
+      final result = await _networkReqHandler.getRequest(
         request: request,
         logTag: LogTags.getMenu,
-        logmsg: "Fetching Menu from ${request.url}",
-        // fromJson: (data) => MenuResponseModel.fromJson(data),
+        logMsg: "Fetching Menu",
       );
 
       return result.fold(
@@ -47,27 +46,54 @@ class MenuService {
           debugLog(LogTags.responseError, "${failure.message}, response error");
           return Left(failure);
         },
-        (menuResponse) {
+        (response) {
           try {
-            final menuList = menuResponse
-                .where((jsonItem) => jsonItem != null)
-                .map((jsonItem) => MenuResponseModel.fromJson(jsonItem))
+            if (response.data == null) {
+              return Left(Failure(
+                message: 'Empty response received',
+                code: response.statusCode,
+              ));
+            }
+
+            final dynamic decodedData = jsonDecode(response.data);
+
+            if (decodedData is! List) {
+              return Left(
+                Failure(
+                  message: 'Invalid response format: expected a list',
+                  code: response.statusCode,
+                  data: response.data,
+                ),
+              );
+            }
+
+            final menuList = decodedData
+                .whereType<Map<String, dynamic>>()
+                .map((json) => MenuResponseModel.fromJson(json))
                 .toList();
-            log("Fetched Menu: $menuList");
+
+            if (menuList.isEmpty) {
+              return Left(Failure(
+                message: 'No menu items found',
+                code: response.statusCode,
+              ));
+            }
+
+            debugLog(LogTags.getMenu,
+                "Successfully fetched ${menuList.length} menu items");
             return Right(menuList);
           } catch (e, stackTrace) {
-            debugLog(LogTags.exception, "Error processing menu response: $e");
-            return Left(
-              Failure(
-                message: 'Error processing menu response: $e',
-                stackTrace: stackTrace,
-              ),
-            );
+            debugLog(LogTags.getMenu, "Error processing menu response: $e");
+            return Left(Failure(
+              message: 'Failed to process menu data: ${e.toString()}',
+              stackTrace: stackTrace,
+              data: response.data,
+            ));
           }
         },
       );
     } catch (e, stackTrace) {
-      debugLog(LogTags.exception, "Unexpected error: $e");
+      debugLog(LogTags.getMenu, "Unexpected error: $e");
       return Left(
         Failure(
           message: 'Unexpected error: $e',
