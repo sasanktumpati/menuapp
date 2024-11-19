@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-18",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar ",
-      "Coconut chutney ",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Mix salad",
-      "Baingan bharta",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Veg kohlapuri",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Besan burfi"
-    ]
-  },
-  {
     "date": "2024-11-19",
     "day": "Tuesday",
     "breakfast": [
@@ -215,6 +182,39 @@
       "Plain rice",
       "Moong dal halwa",
       "Cabbage tomato soup"
+    ]
+  },
+  {
+    "date": "2024-11-25",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg kulcha",
+      "Sweet daliya",
+      "Tomato sauce",
+      "Orange",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Corn salad",
+      "Ajwaini arvi",
+      "Rajma masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Bhaji",
+      "Dhaba dal ",
+      "Pav/chapati",
+      "Plain rice",
+      "Sweet corn soup"
     ]
   }
 ]
