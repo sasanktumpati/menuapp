@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-19",
-    "day": "Tuesday",
-    "breakfast": [
-      "Moong sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Gobhi paratha",
-      "Curd",
-      "Mix pickle",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Bhel poori",
-      "Aloo gobhi adraki",
-      "Lauki masala",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Mix veg raita"
-    ],
-    "dinner": [
-      "Mairchi tapoorey / kachri chutney",
-      "Aloo rassa",
-      "Dal tadka ",
-      "Chapati / batti ",
-      "Jeera rice",
-      "Chorma"
-    ]
-  },
-  {
     "date": "2024-11-20",
     "day": "Wednesday",
     "breakfast": [
@@ -215,6 +183,39 @@
       "Pav/chapati",
       "Plain rice",
       "Sweet corn soup"
+    ]
+  },
+  {
+    "date": "2024-11-26",
+    "day": "Tuesday",
+    "breakfast": [
+      "Moong sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Aloo pyaaz paratha",
+      "Curd",
+      "Mix pickle",
+      "Cut pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Mix salad",
+      "Tawa veg ",
+      "Bagare bangan",
+      "Dal fry ",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Mirch ka salan",
+      "Chole masala",
+      "Puri",
+      "Jeera rice",
+      "Pahari raita",
+      "Kalakand"
     ]
   }
 ]
