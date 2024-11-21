@@ -1,36 +1,5 @@
 [
   {
-    "date": "2024-11-20",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala sandwich",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Mix salad",
-      "Paneer tikka masala",
-      "Dhaba chicken ",
-      "Tikona paratha",
-      "Peas pulao",
-      "Onion mint raita"
-    ],
-    "dinner": [
-      "Aloo kala channa chat",
-      "Veg makhanwala",
-      "Veg makhani",
-      "Chapati",
-      "Plain rice",
-      "Hot choco milk "
-    ]
-  },
-  {
     "date": "2024-11-21",
     "day": "Thursday",
     "breakfast": [
@@ -216,6 +185,38 @@
       "Jeera rice",
       "Pahari raita",
       "Kalakand"
+    ]
+  },
+  {
+    "date": "2024-11-27",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mysore bonda",
+      "Sweet daliya",
+      "Peanut chutney",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Mix salad",
+      "Kashmiri paneer",
+      "Dal makhani ",
+      "Chapati",
+      "Plain rice",
+      "Mix veg raita",
+      "Sahi tukra"
+    ],
+    "dinner": [
+      "Papdi chaat ",
+      "Aloo palak",
+      "Dal amritsari",
+      "Chapati",
+      "Plain rice",
+      "Lemon corriender soup"
     ]
   }
 ]
