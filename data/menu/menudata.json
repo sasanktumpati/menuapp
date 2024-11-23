@@ -1,30 +1,5 @@
 [
   {
-    "date": "2024-11-22",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Home style macaroni salad",
-      "Cabbage porial",
-      "Palak corn",
-      "Black masoor tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": []
-  },
-  {
     "date": "2024-11-23",
     "day": "Saturday",
     "breakfast": [
@@ -217,6 +192,40 @@
       "Dal maharani",
       "Chapati",
       "Veg/ egg fried rice"
+    ]
+  },
+  {
+    "date": "2024-11-29",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Chole ",
+      "Kulcha",
+      "Lemon + onion",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Brown lentil salad",
+      "Capsicum pitla",
+      "Methi mutter malai ",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Sweet lassi"
+    ],
+    "dinner": [
+      "Medu vada",
+      "Dosa",
+      "Sambar",
+      "Chapati lmtd",
+      "Tomato rice",
+      "Coconut , tomato chutney",
+      "Channa dal pysaam"
     ]
   }
 ]
