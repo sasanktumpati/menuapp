@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-23",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg upma",
-      "Sweet daliya",
-      "Adrak chutney",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Veg bullets",
-      "White mutter m/s",
-      "Curd/butter",
-      "Aloo piyaz gobhi paratha",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Pasta salad red sauce",
-      "Meth aloo ",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Gulab jamun"
-    ]
-  },
-  {
     "date": "2024-11-24",
     "day": "Sunday",
     "breakfast": [
@@ -226,6 +193,38 @@
       "Tomato rice",
       "Coconut , tomato chutney",
       "Channa dal pysaam"
+    ]
+  },
+  {
+    "date": "2024-11-30",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Besan chilla",
+      "Green chutney",
+      "Watermelon",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Mix bhajia",
+      "Green chutney",
+      "Kala chana masala",
+      "Curd/butter",
+      "Aloo paratha",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Mix salad",
+      "Veg makhani",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Choco burfi",
+      "Tomato soup"
     ]
   }
 ]
