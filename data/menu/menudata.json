@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-24",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg poha",
-      "Sev ",
-      "Cut onion + lemon",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lababdar",
-      "Kadhai chicken ",
-      "Naan/ chapati(ltd)",
-      "Veg biryani pulao",
-      "Pineapple raita"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Dum aloo ",
-      "Butter dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Moong dal halwa",
-      "Cabbage tomato soup"
-    ]
-  },
-  {
     "date": "2024-11-25",
     "day": "Monday",
     "breakfast": [
@@ -226,5 +194,6 @@
       "Choco burfi",
       "Tomato soup"
     ]
-  }
+  },
+  null
 ]
