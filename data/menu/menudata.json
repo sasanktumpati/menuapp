@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-25",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg kulcha",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Orange",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Corn salad",
-      "Ajwaini arvi",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Bhaji",
-      "Dhaba dal ",
-      "Pav/chapati",
-      "Plain rice",
-      "Sweet corn soup"
-    ]
-  },
-  {
     "date": "2024-11-26",
     "day": "Tuesday",
     "breakfast": [
@@ -195,5 +162,6 @@
       "Tomato soup"
     ]
   },
+  null,
   null
 ]
