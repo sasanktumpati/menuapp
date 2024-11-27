@@ -6,7 +6,7 @@ part of 'fetch_menu.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$fetchMenuServiceHash() => r'1f62ab59ef97ebd4f0b6c22d9332df3decab8100';
+String _$fetchMenuServiceHash() => r'dc30117878bf093c684c536ef9772ddb9b5b671b';
 
 /// See also [FetchMenuService].
 @ProviderFor(FetchMenuService)
