@@ -1,7 +1,7 @@
 {
   "default_timings": {
     "breakfast": {
-      "start": "08:30",
+      "start": "07:30",
       "end": "09:45",
       "type": "breakfast"
     },
