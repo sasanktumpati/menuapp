@@ -13,7 +13,7 @@ import '../network/request/request_methods.dart';
 import 'connection_checker_state.dart';
 
 class ConnectionCheckerNotifier extends StateNotifier<ConnectionCheckerState> {
-  final NetworkRequestHandler networkRequestHandler;
+  final NetworkRequestHandlerNotifier networkRequestHandler;
   final Connectivity _connectivity = Connectivity();
   late StreamSubscription<List<ConnectivityResult>> _connectivitySubscription;
 
@@ -156,7 +156,8 @@ class ConnectionCheckerNotifier extends StateNotifier<ConnectionCheckerState> {
 final connectionCheckerNotifierProvider =
     StateNotifierProvider<ConnectionCheckerNotifier, ConnectionCheckerState>(
         (ref) {
-  final networkHandler = ref.read(networkProvider);
+  final networkHandler =
+      ref.read(networkRequestHandlerNotifierProvider.notifier);
 
   return ConnectionCheckerNotifier(
     networkRequestHandler: networkHandler,
