@@ -7,7 +7,7 @@ part of 'dio_client.dart';
 // **************************************************************************
 
 String _$networkRequestHandlerNotifierHash() =>
-    r'8af6fbece8f380b11974f036aaf51ebf6205d594';
+    r'44a61d11acb05a8813f0cf1a6f224e7f32c21994';
 
 /// See also [NetworkRequestHandlerNotifier].
 @ProviderFor(NetworkRequestHandlerNotifier)

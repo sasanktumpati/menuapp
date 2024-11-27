@@ -1,13 +1,13 @@
-import 'package:dartz/dartz.dart';
-import 'package:dio/dio.dart';
-import 'package:flutter/foundation.dart';
-import 'package:riverpod_annotation/riverpod_annotation.dart';
-import '../../constants/urls.dart';
-import 'exceptions/network_exception.dart';
 import 'dart:async';
 
+import 'package:dartz/dartz.dart';
+import 'package:dio/dio.dart';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
+
+import '../../constants/urls.dart';
 import '../../utils/logger/log_tags.dart';
 import '../../utils/logger/logger.dart';
+import 'exceptions/network_exception.dart';
 import 'intercepters/logging_interceptor.dart';
 import 'request/request_methods.dart';
 
@@ -30,7 +30,7 @@ class NetworkRequestHandlerNotifier extends _$NetworkRequestHandlerNotifier {
         connectTimeout: DioConfig.connectTimeout,
         receiveTimeout: DioConfig.receiveTimeout,
         validateStatus: (status) => status != null && status < 500,
-        baseUrl: APIUrls.menuURLProd,
+        // baseUrl: APIUrls.menuURLProd,
       ),
     );
 
@@ -175,8 +175,8 @@ class NetworkRequestHandlerNotifier extends _$NetworkRequestHandlerNotifier {
 }
 
 class DioConfig {
-  static const Duration connectTimeout = Duration(seconds: 60);
-  static const Duration receiveTimeout = Duration(seconds: 60);
+  static const Duration connectTimeout = Duration(seconds: 15);
+  static const Duration receiveTimeout = Duration(seconds: 15);
   static const int maxRetries = 3;
   static const Duration initialRetryDelay = Duration(seconds: 1);
 }
