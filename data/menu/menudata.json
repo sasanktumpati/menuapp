@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-26",
-    "day": "Tuesday",
-    "breakfast": [
-      "Moong sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo pyaaz paratha",
-      "Curd",
-      "Mix pickle",
-      "Cut pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Mix salad",
-      "Tawa veg ",
-      "Bagare bangan",
-      "Dal fry ",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Mirch ka salan",
-      "Chole masala",
-      "Puri",
-      "Jeera rice",
-      "Pahari raita",
-      "Kalakand"
-    ]
-  },
-  {
     "date": "2024-11-27",
     "day": "Wednesday",
     "breakfast": [
@@ -162,6 +129,7 @@
       "Tomato soup"
     ]
   },
+  null,
   null,
   null
 ]
