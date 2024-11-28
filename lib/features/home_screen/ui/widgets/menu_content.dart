@@ -364,6 +364,7 @@ class MenuContent extends ConsumerWidget {
 
   void _showMealDetails(BuildContext context, MenuResponseModel menu) {
     showModalBottomSheet(
+      isDismissible: true,
       context: context,
       isScrollControlled: true,
       backgroundColor: Colors.transparent,
