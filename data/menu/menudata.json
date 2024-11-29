@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-28",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Onion utappam",
-      "Sambhar",
-      "Coconut chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Aloo gutkhe",
-      "Spring onion kadhi",
-      "Veg khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Veg manchurian",
-      "Veg hakka noodles",
-      "Dal maharani",
-      "Chapati",
-      "Veg/ egg fried rice"
-    ]
-  },
-  {
     "date": "2024-11-29",
     "day": "Friday",
     "breakfast": [
@@ -97,6 +65,7 @@
       "Tomato soup"
     ]
   },
+  null,
   null,
   null,
   null,
