@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-11-29",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Chole ",
-      "Kulcha",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Brown lentil salad",
-      "Capsicum pitla",
-      "Methi mutter malai ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi"
-    ],
-    "dinner": [
-      "Medu vada",
-      "Dosa",
-      "Sambar",
-      "Chapati lmtd",
-      "Tomato rice",
-      "Coconut , tomato chutney",
-      "Channa dal pysaam"
-    ]
-  },
-  {
     "date": "2024-11-30",
     "day": "Saturday",
     "breakfast": [
@@ -65,6 +31,7 @@
       "Tomato soup"
     ]
   },
+  null,
   null,
   null,
   null,
