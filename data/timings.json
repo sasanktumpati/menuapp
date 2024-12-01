@@ -2,17 +2,17 @@
   "default_timings": {
     "breakfast": {
       "start": "07:30",
-      "end": "09:45",
+      "end": "09:30",
       "type": "breakfast"
     },
     "lunch": {
       "start": "11:30",
-      "end": "13:45",
+      "end": "13:30",
       "type": "lunch"
     },
     "dinner": {
-      "start": "19:00",
-      "end": "20:45",
+      "start": "18:30",
+      "end": "20:00",
       "type": "dinner"
     }
   },
@@ -28,8 +28,8 @@
       "type": "lunch"
     },
     "dinner": {
-      "start": "19:00",
-      "end": "20:45",
+      "start": "18:30",
+      "end": "20:00",
       "type": "dinner"
     }
   },
@@ -58,7 +58,7 @@
   ],
   "meta": {
     "timezone": "Asia/Kolkata",
-    "last_updated": "2024-01-01T12:00:00Z",
+    "last_updated": "2024-12-01T12:00:00Z",
     "version": "1.0"
   }
 }
