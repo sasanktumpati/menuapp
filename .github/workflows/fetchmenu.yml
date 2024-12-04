@@ -50,8 +50,8 @@ jobs:
 
       - name: Check if there are changes and commit with date and time
         env:
-          USER_EMAIL: sasanktumpati16@gmail.com
-          USER_NAME: sasanktumpati
+            USER_EMAIL: actions@github.com
+            USER_NAME: GitHub Actions
         run: |
           git config --local user.email "$USER_EMAIL"
           git config --local user.name "$USER_NAME"
