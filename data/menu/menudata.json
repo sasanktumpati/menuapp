@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-12-04",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg corn s/w",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Mutter paneer",
-      "Butter chicken",
-      "Ajwaini tikona paratha",
-      "Peas pulao",
-      "Mix veg raita"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Aloo gobhi adraki",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Tomato soup"
-    ]
-  },
-  {
     "date": "2024-12-05",
     "day": "Thursday",
     "breakfast": [
@@ -227,6 +195,39 @@
       "Jeera rice",
       "Rasam",
       "Pineapple raita"
+    ]
+  },
+  {
+    "date": "2024-12-11",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Misal",
+      "Pav",
+      "Lemon + onion",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Palak paneer",
+      "Dal makhani",
+      "Paratha",
+      "Pulau rice",
+      "Cucumber raita",
+      "Orange sherbet"
+    ],
+    "dinner": [
+      "Papdi chaat with dahi",
+      "Lauki masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Veg manchow"
     ]
   }
 ]
