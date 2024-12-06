@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-12-05",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Palak puri",
-      "Aloo bhaji",
-      "Lemon + onion",
-      "Apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryms",
-      "Jeera aloo ",
-      "Kadhi pakora",
-      "Kathiyawadi khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Shammi kebab",
-      "Veg stir fry ",
-      "Sahi paneer",
-      "Dhaba chicken",
-      "Navrattan pulao",
-      "Naan",
-      "Boondi raita"
-    ]
-  },
-  {
     "date": "2024-12-06",
     "day": "Friday",
     "breakfast": [
@@ -228,6 +195,38 @@
       "Plain rice",
       "Rasam",
       "Veg manchow"
+    ]
+  },
+  {
+    "date": "2024-12-12",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Pesarettu",
+      "Green chutney",
+      "Orange",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Potato chips",
+      "Jeera aloo",
+      "Kadhi pakoda",
+      "Veg khichidi",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Mix salad",
+      "Gobhi mutter ",
+      "Dal makhani",
+      "Chapati",
+      "Masala pulao",
+      "Rasam",
+      "Hot choco milk "
     ]
   }
 ]
