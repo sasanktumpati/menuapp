@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-12-06",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sautee idli( rawa idli)",
-      "Sambhar",
-      "Coconut chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Corn salad",
-      "Moong ghassi",
-      "Methi mutter malai",
-      "Jeera dal ",
-      "Chapati",
-      "Plain rice",
-      "Andhra style sambar"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Veg manchurian/ veg hakka noodle",
-      "Dal maharani",
-      "Chapati",
-      "Veg/ egg fried rice",
-      "Rasam",
-      "Fruit custard"
-    ]
-  },
-  {
     "date": "2024-12-07",
     "day": "Saturday",
     "breakfast": [
@@ -227,6 +194,40 @@
       "Masala pulao",
       "Rasam",
       "Hot choco milk "
+    ]
+  },
+  {
+    "date": "2024-12-13",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Cholley",
+      "Kulcha",
+      "Lemon + onion",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Kachoombar salad",
+      "Soya handi",
+      "Veg korma",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mix blast"
+    ],
+    "dinner": [
+      "Medu vada",
+      "Rawa dosa",
+      "Sambar",
+      "Chapati ltd",
+      "Tomato rice",
+      "Coconut / tomato chutney",
+      "Gajar ka halwa"
     ]
   }
 ]
