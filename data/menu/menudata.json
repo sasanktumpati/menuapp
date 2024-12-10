@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-12-09",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar",
-      "Coconut chutney",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macaroni salad",
-      "Ajwaini arvi ",
-      "Rajma masala",
-      "Arhar dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi "
-    ],
-    "dinner": [
-      "Mix salad",
-      "Sarsoon ka saag ",
-      "Butter dal tadka",
-      "Missi roti",
-      "Jeera rice",
-      "White butter/ gur",
-      "Aate ka halwa"
-    ]
-  },
-  {
     "date": "2024-12-10",
     "day": "Tuesday",
     "breakfast": [
@@ -229,6 +195,38 @@
       "Plain rice",
       "Rasam",
       "Jalebi"
+    ]
+  },
+  {
+    "date": "2024-12-16",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Ragda pattice",
+      "Sweet/ green chutney",
+      "Onion + lemon",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Jeera aloo",
+      "Mix kathol",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Pasta white sauce",
+      "Corn capsicum",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
