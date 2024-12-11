@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-12-10",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Gobhi paratha",
-      "Curd",
-      "Mix pickle",
-      "Apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Aloo palak dry",
-      "Raw banana kofta curry",
-      "Dal fry",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Mirchi ka salan ",
-      "Chole masala",
-      "Puri",
-      "Jeera rice",
-      "Rasam",
-      "Pineapple raita"
-    ]
-  },
-  {
     "date": "2024-12-11",
     "day": "Wednesday",
     "breakfast": [
@@ -228,5 +195,6 @@
       "Plain rice",
       "Rasam"
     ]
-  }
+  },
+  null
 ]
