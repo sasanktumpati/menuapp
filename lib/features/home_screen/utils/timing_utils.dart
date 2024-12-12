@@ -65,9 +65,18 @@ class TimingUtils {
   }
 
   static int _compareTime(String time1, String time2) {
-    final t1 = time1.split(':').map(int.parse).toList();
-    final t2 = time2.split(':').map(int.parse).toList();
-    if (t1[0] != t2[0]) return t1[0].compareTo(t2[0]);
-    return t1[1].compareTo(t2[1]);
+    try {
+      final t1 = time1.split(':').map(int.parse).toList();
+      final t2 = time2.split(':').map(int.parse).toList();
+      if (t1.length != 2 || t2.length != 2 ||
+          t1[0] < 0 || t1[0] > 23 || t1[1] < 0 || t1[1] > 59 ||
+          t2[0] < 0 || t2[0] > 23 || t2[1] < 0 || t2[1] > 59) {
+        throw FormatException('Invalid time format');
+      }
+      if (t1[0] != t2[0]) return t1[0].compareTo(t2[0]);
+      return t1[1].compareTo(t2[1]);
+    } catch (e) {
+      throw FormatException('Invalid time format: $e');
+    }
   }
 }
