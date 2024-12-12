@@ -6,4 +6,7 @@ class APIUrls {
       'https://raw.githubusercontent.com/sasanktumpati/menuapp/refs/heads/main/data/menu/menudata.json';
   static const String menuURLDev =
       'https://raw.githubusercontent.com/sasanktumpati/menuapp/refs/heads/main/data/menu/menudata_test.json';
+
+  static const String timingsURLProd =
+      'https://raw.githubusercontent.com/sasanktumpati/menuapp/refs/heads/main/data/timings.json';
 }

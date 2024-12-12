@@ -30,4 +30,6 @@ class LogTags {
   static const String updatingKey = 'Updating Key';
   static const String deletingKey = 'Deleting Key';
   static const String clearingPrefs = 'Deleting All Keys';
+
+  static const String getTimings = 'GET_TIMINGS';
 }

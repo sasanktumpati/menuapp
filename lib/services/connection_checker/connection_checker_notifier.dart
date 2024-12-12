@@ -95,12 +95,10 @@ class ConnectionCheckerNotifier extends StateNotifier<ConnectionCheckerState> {
 
     const timeoutDuration = Duration(seconds: 5);
     final request = NetworkRequest(
-        url: kDebugMode ? APIUrls.menuURLDev : APIUrls.menuURLProd,
-        sendTimeout: timeoutDuration,
-        receiveTimeout: timeoutDuration,
-        headers: {
-          'AuthFalse': 'true',
-        });
+      path: APIUrls.menuURLDev,
+      sendTimeout: timeoutDuration,
+      receiveTimeout: timeoutDuration,
+    );
 
     try {
       setLoadingStatus(true);

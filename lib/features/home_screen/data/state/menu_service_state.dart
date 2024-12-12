@@ -1,4 +1,5 @@
 import '../../../../services/network/request/request_methods.dart';
+import '../models/meal_timings.dart';
 import '../models/response_model.dart';
 
 class MenuServiceState {
@@ -7,6 +8,7 @@ class MenuServiceState {
   final String? errorMessage;
   final Failure? failure;
   final List<MenuResponseModel>? menuList;
+  final MealTimings? timingConfig;
 
   const MenuServiceState({
     this.isLoading = false,
@@ -14,20 +16,24 @@ class MenuServiceState {
     this.errorMessage,
     this.failure,
     this.menuList,
+    this.timingConfig,
   });
 
-  MenuServiceState copyWith(
-      {bool? isLoading,
-      bool? hasError,
-      String? errorMessage,
-      Failure? failure,
-      List<MenuResponseModel>? menuList}) {
+  MenuServiceState copyWith({
+    bool? isLoading,
+    bool? hasError,
+    String? errorMessage,
+    Failure? failure,
+    List<MenuResponseModel>? menuList,
+    MealTimings? timingConfig,
+  }) {
     return MenuServiceState(
       isLoading: isLoading ?? this.isLoading,
       hasError: hasError ?? this.hasError,
       errorMessage: errorMessage ?? this.errorMessage,
       failure: failure ?? this.failure,
       menuList: menuList ?? this.menuList,
+      timingConfig: timingConfig ?? this.timingConfig,
     );
   }
 }

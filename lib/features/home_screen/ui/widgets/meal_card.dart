@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class MealCard extends StatelessWidget {
+import '../../data/fetch_menu.dart';
+import '../../data/models/response_model.dart';
+import '../../utils/timing_utils.dart';
+
+class MealCard extends ConsumerWidget {
   final String mealType;
   final List<String>? items;
   final bool isCurrentMeal;
@@ -14,8 +19,8 @@ class MealCard extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext context) {
-    final mealTimings = _getMealTimingsForType(mealType);
+  Widget build(BuildContext context, WidgetRef ref) {
+    final mealTimings = _getMealTimingsForType(mealType, ref);
     bool hasData = items != null && items!.isNotEmpty;
 
     return Padding(
@@ -38,18 +43,22 @@ class MealCard extends StatelessWidget {
                 color: Colors.orangeAccent,
                 size: 30,
               ),
-              title: Text(
-                mealType,
-                style: GoogleFonts.poppins(
-                    fontSize: 22,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.black),
+              title: Flexible(
+                child: Text(
+                  mealType,
+                  style: GoogleFonts.poppins(
+                      fontSize: 22,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black),
+                ),
               ),
-              subtitle: Text(
-                mealTimings,
-                style: GoogleFonts.poppins(
-                  fontSize: 16,
-                  color: Colors.grey[600],
+              subtitle: Flexible(
+                child: Text(
+                  mealTimings,
+                  style: GoogleFonts.poppins(
+                    fontSize: 16,
+                    color: Colors.grey[600],
+                  ),
                 ),
               ),
             ),
@@ -82,16 +91,18 @@ class MealCard extends StatelessWidget {
     );
   }
 
-  String _getMealTimingsForType(String mealType) {
-    // This method should be implemented to return the meal timings based on the meal type
-    // For now, returning a placeholder string
+  String _getMealTimingsForType(String mealType, WidgetRef ref) {
+    final timingConfig = ref.watch(fetchMenuServiceProvider).timingConfig;
+    if (timingConfig == null) return '';
+
+    final defaultTimings = timingConfig.defaultTimings;
     switch (mealType) {
       case 'Breakfast':
-        return '7:30 AM - 9:45 AM';
+        return TimingUtils.getMealTiming(defaultTimings.breakfast);
       case 'Lunch':
-        return '11:30 AM - 1:45 PM';
+        return TimingUtils.getMealTiming(defaultTimings.lunch);
       case 'Dinner':
-        return '7:00 PM - 8:45 PM';
+        return TimingUtils.getMealTiming(defaultTimings.dinner);
       default:
         return '';
     }
