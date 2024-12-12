@@ -19,7 +19,9 @@ class TimingUtils {
 
   static Timings getTimingsForDate(MealTimings config, DateTime date) {
     final specialDay = config.specialDays.firstWhere(
-      (day) => day.date.day == date.day,
+      (day) => day.date.year == date.year && 
+               day.date.month == date.month && 
+               day.date.day == date.day,
       orElse: () => SpecialDay(
         date: date,
         name: '',
