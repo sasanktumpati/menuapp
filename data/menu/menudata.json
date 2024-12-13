@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-12-12",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Pesarettu",
-      "Green chutney",
-      "Orange",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Potato chips",
-      "Jeera aloo",
-      "Kadhi pakoda",
-      "Veg khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Gobhi mutter ",
-      "Dal makhani",
-      "Chapati",
-      "Masala pulao",
-      "Rasam",
-      "Hot choco milk "
-    ]
-  },
-  {
     "date": "2024-12-13",
     "day": "Friday",
     "breakfast": [
@@ -163,6 +131,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null
 ]
