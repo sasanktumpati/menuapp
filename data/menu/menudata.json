@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-12-13",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Cholley",
-      "Kulcha",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Kachoombar salad",
-      "Soya handi",
-      "Veg korma",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mix blast"
-    ],
-    "dinner": [
-      "Medu vada",
-      "Rawa dosa",
-      "Sambar",
-      "Chapati ltd",
-      "Tomato rice",
-      "Coconut / tomato chutney",
-      "Gajar ka halwa"
-    ]
-  },
-  {
     "date": "2024-12-14",
     "day": "Saturday",
     "breakfast": [
@@ -131,6 +97,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null
