@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-12-14",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s s/w",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Mix bhajiya",
-      "Kala chana masala",
-      "Curd/butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar",
-      "Sahi tukra"
-    ],
-    "dinner": [
-      "Mix salad",
-      "Sarsoon ka saag ",
-      "Butter dal tadka",
-      "Makki ki roti",
-      "Jeera rice",
-      "White butter/ gur",
-      "Lemon coriender soup"
-    ]
-  },
-  {
     "date": "2024-12-15",
     "day": "Sunday",
     "breakfast": [
@@ -97,6 +63,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null,
