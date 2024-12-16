@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-12-15",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar",
-      "Coconut chutney",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer butter m/s",
-      "Chicken home style",
-      "Naan/ chapati(ltd)",
-      "Veg pulao",
-      "Mix veg raita"
-    ],
-    "dinner": [
-      "Aloo channa chaat",
-      "Veg korma",
-      "Yellow dal palak",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Jalebi"
-    ]
-  },
-  {
     "date": "2024-12-16",
     "day": "Monday",
     "breakfast": [
@@ -63,6 +31,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null,
