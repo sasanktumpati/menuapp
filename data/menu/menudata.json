@@ -1,36 +1,5 @@
 [
-  {
-    "date": "2024-12-16",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Ragda pattice",
-      "Sweet/ green chutney",
-      "Onion + lemon",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Jeera aloo",
-      "Mix kathol",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Pasta white sauce",
-      "Corn capsicum",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
+  null,
   null,
   null,
   null,
