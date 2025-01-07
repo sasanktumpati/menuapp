@@ -1,9 +1,233 @@
 [
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null
+  {
+    "date": "2025-01-07",
+    "day": "Tuesday",
+    "breakfast": [
+      "Sprouts",
+      "Cornflakes",
+      "Bread + jam",
+      "Aloo paratha",
+      "Curd",
+      "Mix pickle",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Macaroni salad",
+      "Gobhi mutter ",
+      "Aloo palak",
+      "Dhaba dal ",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Shikanji "
+    ],
+    "dinner": [
+      "Cut onion ",
+      "Mirch ka salan ",
+      "Chooley masala",
+      "Puri",
+      "Plain rice",
+      "Rasam",
+      "Hot choco milk "
+    ]
+  },
+  {
+    "date": "2025-01-08",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Idli",
+      "Sambhar ",
+      "Coconut chutney ",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Paneer do pyaaza",
+      "Butter chicken ",
+      "Chapati",
+      "Plain rice",
+      "Boondi raita"
+    ],
+    "dinner": [
+      "Green salad ",
+      "Cabbage mutter",
+      "Black masoor dal ",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Tomato soup "
+    ]
+  },
+  {
+    "date": "2025-01-09",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak poori",
+      "Aloo bhaji",
+      "Lemon + onion",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Aloo methi ",
+      "Kadhi pakoda",
+      "Dal khichadi",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Green salad ",
+      "Veg kolhapuri",
+      "Dhaba dal ",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Gulab jamun "
+    ]
+  },
+  {
+    "date": "2025-01-10",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Chooley ",
+      "Kulcha",
+      "Lemon + onion",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Bheel poori",
+      "Capsicum corn curry",
+      "Mix kathol",
+      "Jeera dal",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": [
+      "Mirch tapoorey",
+      "Channa dal tadka",
+      "Aloo rassa",
+      "Batti / chapati",
+      "Plain rice",
+      "Rasam",
+      "Churma"
+    ]
+  },
+  {
+    "date": "2025-01-11",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Seviya upma",
+      "Adrak chutney",
+      "Orange",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Hara bhara kebab",
+      "Kala channa ",
+      "Curd + butter",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Green salad ",
+      "Aloo mutter",
+      "Moong dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Manchow soup "
+    ]
+  },
+  {
+    "date": "2025-01-12",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "M/s dosa",
+      "Sambhar ",
+      "Coconut chutney ",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Paneer lahori",
+      "Dhaba style chicken ",
+      "Chapati",
+      "Plain rice",
+      "Mix veg raita"
+    ],
+    "dinner": [
+      "Green salad ",
+      "Dum aloo ",
+      "Dal panchratanam",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Sweet corn soup "
+    ]
+  },
+  {
+    "date": "2025-01-13",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg poha",
+      "Sev",
+      "Onion + lemon",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Gobhi mutter ( semi gravy)",
+      "Rajma masala",
+      "Dal lahsooni",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mango lassi "
+    ],
+    "dinner": [
+      "Cut onion lemon ",
+      "Pao bhaji",
+      "Chana dal tadka",
+      "Ltd chapati",
+      "Plain rice",
+      "Rasam",
+      "Gajar ka halwa"
+    ]
+  }
 ]
