@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-07",
-    "day": "Tuesday",
-    "breakfast": [
-      "Sprouts",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo paratha",
-      "Curd",
-      "Mix pickle",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macaroni salad",
-      "Gobhi mutter ",
-      "Aloo palak",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji "
-    ],
-    "dinner": [
-      "Cut onion ",
-      "Mirch ka salan ",
-      "Chooley masala",
-      "Puri",
-      "Plain rice",
-      "Rasam",
-      "Hot choco milk "
-    ]
-  },
-  {
     "date": "2025-01-08",
     "day": "Wednesday",
     "breakfast": [
@@ -228,6 +194,31 @@
       "Plain rice",
       "Rasam",
       "Gajar ka halwa"
+    ]
+  },
+  {
+    "date": "2025-01-14",
+    "day": "Tuesday",
+    "breakfast": [
+      "Sprouts",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg paratha",
+      "Curd",
+      "Mix pickle",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [],
+    "dinner": [
+      "Papdi chaat",
+      "Aloo pumpkin",
+      "Amritsari chole",
+      "Puri",
+      "Plain rice",
+      "Rasam",
+      "Badam milk "
     ]
   }
 ]
