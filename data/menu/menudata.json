@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-08",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Idli",
-      "Sambhar ",
-      "Coconut chutney ",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad ",
-      "Paneer do pyaaza",
-      "Butter chicken ",
-      "Chapati",
-      "Plain rice",
-      "Boondi raita"
-    ],
-    "dinner": [
-      "Green salad ",
-      "Cabbage mutter",
-      "Black masoor dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Tomato soup "
-    ]
-  },
-  {
     "date": "2025-01-09",
     "day": "Thursday",
     "breakfast": [
@@ -219,6 +187,39 @@
       "Plain rice",
       "Rasam",
       "Badam milk "
+    ]
+  },
+  {
+    "date": "2025-01-15",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Onion uttapam",
+      "Sambar",
+      "Coconut chutney",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad ",
+      "Paneer lababdar",
+      "Dal makhani",
+      "Chapati",
+      "Plain rice",
+      "Boondi raita",
+      "Mohan thal "
+    ],
+    "dinner": [
+      "Green salad ",
+      "Methi malai mutter ",
+      "Dal fry",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Lemon corrieander soup "
     ]
   }
 ]
