@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-10",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Chooley ",
-      "Kulcha",
-      "Lemon + onion",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Bheel poori",
-      "Capsicum corn curry",
-      "Mix kathol",
-      "Jeera dal",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Mirch tapoorey",
-      "Channa dal tadka",
-      "Aloo rassa",
-      "Batti / chapati",
-      "Plain rice",
-      "Rasam",
-      "Churma"
-    ]
-  },
-  {
     "date": "2025-01-11",
     "day": "Saturday",
     "breakfast": [
@@ -189,5 +155,6 @@
       "Lemon corrieander soup "
     ]
   },
+  null,
   null
 ]
