@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-11",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Seviya upma",
-      "Adrak chutney",
-      "Orange",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad ",
-      "Hara bhara kebab",
-      "Kala channa ",
-      "Curd + butter",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Green salad ",
-      "Aloo mutter",
-      "Moong dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Manchow soup "
-    ]
-  },
-  {
     "date": "2025-01-12",
     "day": "Sunday",
     "breakfast": [
@@ -155,6 +123,7 @@
       "Lemon corrieander soup "
     ]
   },
+  null,
   null,
   null
 ]
