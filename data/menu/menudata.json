@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-12",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar ",
-      "Coconut chutney ",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad ",
-      "Paneer lahori",
-      "Dhaba style chicken ",
-      "Chapati",
-      "Plain rice",
-      "Mix veg raita"
-    ],
-    "dinner": [
-      "Green salad ",
-      "Dum aloo ",
-      "Dal panchratanam",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Sweet corn soup "
-    ]
-  },
-  {
     "date": "2025-01-13",
     "day": "Monday",
     "breakfast": [
@@ -123,6 +91,7 @@
       "Lemon corrieander soup "
     ]
   },
+  null,
   null,
   null,
   null
