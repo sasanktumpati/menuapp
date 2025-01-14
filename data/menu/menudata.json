@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-13",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg poha",
-      "Sev",
-      "Onion + lemon",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad ",
-      "Gobhi mutter ( semi gravy)",
-      "Rajma masala",
-      "Dal lahsooni",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mango lassi "
-    ],
-    "dinner": [
-      "Cut onion lemon ",
-      "Pao bhaji",
-      "Chana dal tadka",
-      "Ltd chapati",
-      "Plain rice",
-      "Rasam",
-      "Gajar ka halwa"
-    ]
-  },
-  {
     "date": "2025-01-14",
     "day": "Tuesday",
     "breakfast": [
@@ -91,6 +57,7 @@
       "Lemon corrieander soup "
     ]
   },
+  null,
   null,
   null,
   null,
