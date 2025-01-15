@@ -1,30 +1,5 @@
 [
   {
-    "date": "2025-01-14",
-    "day": "Tuesday",
-    "breakfast": [
-      "Sprouts",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg paratha",
-      "Curd",
-      "Mix pickle",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [],
-    "dinner": [
-      "Papdi chaat",
-      "Aloo pumpkin",
-      "Amritsari chole",
-      "Puri",
-      "Plain rice",
-      "Rasam",
-      "Badam milk "
-    ]
-  },
-  {
     "date": "2025-01-15",
     "day": "Wednesday",
     "breakfast": [
@@ -57,6 +32,7 @@
       "Lemon corrieander soup "
     ]
   },
+  null,
   null,
   null,
   null,
