@@ -1,37 +1,5 @@
 [
-  {
-    "date": "2025-01-15",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Onion uttapam",
-      "Sambar",
-      "Coconut chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad ",
-      "Paneer lababdar",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Boondi raita",
-      "Mohan thal "
-    ],
-    "dinner": [
-      "Green salad ",
-      "Methi malai mutter ",
-      "Dal fry",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Lemon corrieander soup "
-    ]
-  },
+  null,
   null,
   null,
   null,
