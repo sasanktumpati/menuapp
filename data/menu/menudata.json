@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-01-17",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo bhaji",
-      "Bedmi puri",
-      "Cut onion lemon",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macroni salad",
-      "Soya handi",
-      "Palak corn",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Tomato chutney",
-      "Vada",
-      "Sambhar",
-      "Masala dosa",
-      "Lemon rice",
-      "Chapati( ltd)",
-      "Sago payassam"
-    ]
-  },
-  {
     "date": "2025-01-18",
     "day": "Saturday",
     "breakfast": [
@@ -228,6 +195,39 @@
       "Plain rice",
       "Rasam",
       "Churma"
+    ]
+  },
+  {
+    "date": "2025-01-24",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Onion utappam",
+      "Sambhar",
+      "Coconut chuteny",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Papadi chaat",
+      "Gobhi mutter",
+      "Mix kathol",
+      "Dal palak",
+      "Chapati",
+      "Plain rice",
+      "Onion mint raita"
+    ],
+    "dinner": [
+      "Corn tikki",
+      "Shahi paneer (white gravy)",
+      "Paratha ",
+      "Chana dal pulao",
+      "Butter dal tadka ",
+      "Kalakhand ",
+      "Tomato soup"
     ]
   }
 ]
