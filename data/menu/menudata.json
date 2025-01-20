@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-19",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala dosa",
-      "Sambhar",
-      "Coconut chutney",
-      "Apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer tikka masala",
-      "Butter chicken",
-      "Naan / chapati",
-      "Biryani rice",
-      "Boondi raita"
-    ],
-    "dinner": [
-      "Corn salad",
-      "Aloo methi",
-      "Aarhar dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Sweet corn soup"
-    ]
-  },
-  {
     "date": "2025-01-20",
     "day": "Monday",
     "breakfast": [
@@ -227,6 +195,38 @@
       "Plain rice",
       "Rasam",
       "Seeviyaan kheer"
+    ]
+  },
+  {
+    "date": "2025-01-26",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Bread pakoda",
+      "Tomato ketchup",
+      "Sweet daliya",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Paneer pakoda",
+      "Paneer lahori",
+      "Chicken kukupaka",
+      "Naan / chapati",
+      "Kashmiri pulao",
+      "Boondi raita",
+      "Tiranga burfi"
+    ],
+    "dinner": [
+      "Green salad",
+      "Aloo gobhi",
+      "Mix dal",
+      "Chapati",
+      "Plain rice",
+      "Tomato soup"
     ]
   }
 ]
