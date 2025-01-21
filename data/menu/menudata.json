@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-20",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Poha",
-      "Sev",
-      "Cut onion lemon",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Baingan bharta",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Gulab jamuin"
-    ],
-    "dinner": [
-      "Green salad",
-      "Sarson ka saag",
-      "Makki ki roti",
-      "Dal lahsuni",
-      "Plain rice",
-      "Rasam",
-      "Veg manchow soup"
-    ]
-  },
-  {
     "date": "2025-01-21",
     "day": "Tuesday",
     "breakfast": [
@@ -227,6 +193,40 @@
       "Chapati",
       "Plain rice",
       "Tomato soup"
+    ]
+  },
+  {
+    "date": "2025-01-27",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mutter",
+      "Kulcha",
+      "Cut onion lemon",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Lauki masala",
+      "Rajma masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Sweet lassi"
+    ],
+    "dinner": [
+      "Cut onion + lemon",
+      "Pao",
+      "Bhaji",
+      "Dal tadka",
+      "Plain rice",
+      "Chapati limited",
+      "Aate ka halwa"
     ]
   }
 ]
