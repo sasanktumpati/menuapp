@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-21",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala s/w",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Bhel poori",
-      "Achari aloo",
-      "Veg kofta curry",
-      "Dal maharani",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mix blast"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Khatta meetha pumpkin",
-      "Chole masala",
-      "Bhatora/ chapati",
-      "Jeera rice",
-      "Mix veg raita",
-      "Gajar ka halwa"
-    ]
-  },
-  {
     "date": "2025-01-22",
     "day": "Wednesday",
     "breakfast": [
@@ -227,6 +193,40 @@
       "Plain rice",
       "Chapati limited",
       "Aate ka halwa"
+    ]
+  },
+  {
+    "date": "2025-01-28",
+    "day": "Tuesday",
+    "breakfast": [
+      "Mix sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Aloo paratha",
+      "Curd",
+      "Cut onion + lemon",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Bhel poori",
+      "Arbi masala",
+      "Gatta curry",
+      "Moong dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Chocolate burfi"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Mirch ka salan",
+      "Chole masala",
+      "Puri/ chapati",
+      "Jeera rice",
+      "Rasam",
+      "Veg hot & sour soup"
     ]
   }
 ]
