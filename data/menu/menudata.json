@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-22",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Idli/ sautee idli",
-      "Sambar",
-      "Coconut chutney",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer korma",
-      "Chicken makhani",
-      "Chapati",
-      "Peas pulao",
-      "Pineapple raita"
-    ],
-    "dinner": [
-      "Khim chi salad",
-      "Veg manchurian",
-      "Dal maharani",
-      "Egg fried rice / veg fried rice/hakka noodle",
-      "Chapati",
-      "Rasam",
-      "Hot badam milk"
-    ]
-  },
-  {
     "date": "2025-01-23",
     "day": "Thursday",
     "breakfast": [
@@ -227,6 +195,38 @@
       "Jeera rice",
       "Rasam",
       "Veg hot & sour soup"
+    ]
+  },
+  {
+    "date": "2025-01-29",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Idli / sautee idli",
+      "Sambhar",
+      "Coconut chutney",
+      "Kinnow",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Palak paneer",
+      "Dal makhani",
+      "Chapati",
+      "Veg pulao",
+      "Mix veg raita"
+    ],
+    "dinner": [
+      "Pasta salad (red sauce)",
+      "Veg kofta curry",
+      "Dhaba dal",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Jalebi"
     ]
   }
 ]
