@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-25",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Suji upma",
-      "Adrak chutney",
-      "Water melon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Corn tikki",
-      "Kala channa masala",
-      "Curd /butter",
-      "Gobhi paratha",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg makhanwala",
-      "Butter dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Seeviyaan kheer"
-    ]
-  },
-  {
     "date": "2025-01-26",
     "day": "Sunday",
     "breakfast": [
@@ -230,5 +198,6 @@
       "Rasam",
       "Manchow soup"
     ]
-  }
+  },
+  null
 ]
