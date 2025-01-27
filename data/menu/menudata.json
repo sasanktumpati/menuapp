@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-26",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakoda",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Paneer pakoda",
-      "Paneer lahori",
-      "Chicken kukupaka",
-      "Naan / chapati",
-      "Kashmiri pulao",
-      "Boondi raita",
-      "Tiranga burfi"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo gobhi",
-      "Mix dal",
-      "Chapati",
-      "Plain rice",
-      "Tomato soup"
-    ]
-  },
-  {
     "date": "2025-01-27",
     "day": "Monday",
     "breakfast": [
@@ -199,5 +167,6 @@
       "Manchow soup"
     ]
   },
+  null,
   null
 ]
