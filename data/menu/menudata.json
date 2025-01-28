@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-27",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mutter",
-      "Kulcha",
-      "Cut onion lemon",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Lauki masala",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi"
-    ],
-    "dinner": [
-      "Cut onion + lemon",
-      "Pao",
-      "Bhaji",
-      "Dal tadka",
-      "Plain rice",
-      "Chapati limited",
-      "Aate ka halwa"
-    ]
-  },
-  {
     "date": "2025-01-28",
     "day": "Tuesday",
     "breakfast": [
@@ -167,6 +133,7 @@
       "Manchow soup"
     ]
   },
+  null,
   null,
   null
 ]
