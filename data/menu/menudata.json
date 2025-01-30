@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-01-29",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Idli / sautee idli",
-      "Sambhar",
-      "Coconut chutney",
-      "Kinnow",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Palak paneer",
-      "Dal makhani",
-      "Chapati",
-      "Veg pulao",
-      "Mix veg raita"
-    ],
-    "dinner": [
-      "Pasta salad (red sauce)",
-      "Veg kofta curry",
-      "Dhaba dal",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Jalebi"
-    ]
-  },
-  {
     "date": "2025-01-30",
     "day": "Thursday",
     "breakfast": [
@@ -99,6 +67,7 @@
       "Manchow soup"
     ]
   },
+  null,
   null,
   null,
   null,
