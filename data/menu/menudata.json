@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-01-30",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Missal",
-      "Pao",
-      "Onion + lemom",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryms",
-      "Madrasi aloo",
-      "Kadhi pakoda",
-      "Veg khichdi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Coconut chutney",
-      "Vada",
-      "Sambhar",
-      "Masala dosa",
-      "Tamrind rice",
-      "Chapati( ltd)",
-      "Besan burfi"
-    ]
-  },
-  {
     "date": "2025-01-31",
     "day": "Friday",
     "breakfast": [
@@ -67,6 +33,7 @@
       "Manchow soup"
     ]
   },
+  null,
   null,
   null,
   null,
