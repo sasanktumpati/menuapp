@@ -1,38 +1,5 @@
 [
-  {
-    "date": "2025-01-31",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Poha",
-      "Sev",
-      "Pickle",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Mix veg dry",
-      "Soya handi",
-      "Butter dal",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Pineapple raita"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo palak",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Manchow soup"
-    ]
-  },
+  null,
   null,
   null,
   null,
