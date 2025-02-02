@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-01",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Seviya upma",
-      "Sweet daliya",
-      "Adrak chutney",
-      "Kinnow",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Lemon + onion",
-      "Khatta meetha pumpkin",
-      "Chole masala",
-      "Ajwaini puri / chapati",
-      "Jeera rice",
-      "Sambar",
-      "Masala chaas"
-    ],
-    "dinner": [
-      "Pasta salad (red sauce)",
-      "Aloo methi",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Suji halwa"
-    ]
-  },
-  {
     "date": "2025-02-02",
     "day": "Sunday",
     "breakfast": [
@@ -226,6 +193,39 @@
       "Chowmin",
       "Chapati",
       "Fruit custsrd"
+    ]
+  },
+  {
+    "date": "2025-02-08",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak puri",
+      "Aloo mutter bhaji",
+      "Lemon + onion",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Tomato ketchup",
+      "French fries ",
+      "Kala chana masala",
+      "Curd /butter",
+      "Gobhi paratha",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Green salad",
+      "Dahi arbi",
+      "Arhar dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Hot & sour soup"
     ]
   }
 ]
