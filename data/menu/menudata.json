@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-03",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala dosa",
-      "Sambhar",
-      "Coconut chutney",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Cabbage mutter",
-      "Rajam rangoli (red bean)",
-      "Dal tadka ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi "
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Bhaji",
-      "Methi dal ",
-      "Pav/chapati",
-      "Plain rice",
-      "Rasam",
-      "Hot badam milk"
-    ]
-  },
-  {
     "date": "2025-02-04",
     "day": "Tuesday",
     "breakfast": [
@@ -226,6 +192,40 @@
       "Plain rice",
       "Chapati",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2025-02-10",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg poha",
+      "Sev",
+      "Lemon + onion",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Gobhi mutter dry",
+      "Rajma rasila",
+      "Sabut malkamasoor dal",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Sweet lassi"
+    ],
+    "dinner": [
+      "Green salad",
+      "Dahi aloo kashmiri",
+      "Dal maharani",
+      " chapati",
+      "Plain rice",
+      "Rasam",
+      "Tomato soup"
     ]
   }
 ]
