@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-04",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala s/w",
-      "Seviya kheer",
-      "Tomato ketchup",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      " onion corn salad",
-      "Gajar mutter",
-      "Veg korma",
-      "Black urad dal",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Khus sharbet"
-    ],
-    "dinner": [
-      "Green chutney",
-      "Mix bhajiya ( less poatao)",
-      "Ragda mutter",
-      "Curd /butter",
-      "Mix veg paratha",
-      "Plain rice"
-    ]
-  },
-  {
     "date": "2025-02-05",
     "day": "Wednesday",
     "breakfast": [
@@ -226,6 +193,39 @@
       "Plain rice",
       "Rasam",
       "Tomato soup"
+    ]
+  },
+  {
+    "date": "2025-02-11",
+    "day": "Tuesday",
+    "breakfast": [
+      "Mix sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Aloo pyaaz paratha",
+      "Curd",
+      "Pickel",
+      "Kinnow",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Papapdi chaat",
+      "Capsicum pitla",
+      "Veg kofta curry",
+      "Dal palak",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": [
+      "Tomato /peanut chutney",
+      "Vada",
+      "Sambhar",
+      "Masala dosa",
+      "Tomato rice",
+      "Chapati( ltd)"
     ]
   }
 ]
