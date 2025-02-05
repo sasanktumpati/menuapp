@@ -2,9 +2,9 @@
 //
 //     final mealTimings = mealTimingsFromJson(jsonString);
 
-import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:hive/hive.dart';
 import 'dart:convert';
+
+import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'meal_timings.freezed.dart';
 part 'meal_timings.g.dart';

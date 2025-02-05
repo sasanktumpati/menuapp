@@ -4,7 +4,6 @@ import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import '../../constants/urls.dart';
 import '../../utils/logger/log_tags.dart';
 import '../../utils/logger/logger.dart';
 import 'exceptions/network_exception.dart';

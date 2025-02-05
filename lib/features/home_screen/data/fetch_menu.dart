@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:dio/dio.dart';
-import 'package:hive/hive.dart';
 import 'package:menuapp/constants/urls.dart';
 import 'package:menuapp/features/home_screen/data/state/menu_service_state.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';

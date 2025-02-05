@@ -3,7 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../data/fetch_menu.dart';
-import '../../data/models/response_model.dart';
 import '../../utils/timing_utils.dart';
 
 class MealCard extends ConsumerWidget {
