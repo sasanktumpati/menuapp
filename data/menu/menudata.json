@@ -1,69 +1,5 @@
 [
   {
-    "date": "2025-02-05",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Idli / sautee idli",
-      "Sambhar",
-      "Cut onion lemon",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer makhani",
-      "Butter chicken ",
-      "Chapati",
-      "Veg pulao",
-      "Cucumber mint raita"
-    ],
-    "dinner": [
-      "Green salad ",
-      "Sweet potato gravy (coconut base)",
-      "Dal fry ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Jalebi"
-    ]
-  },
-  {
-    "date": "2025-02-06",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Vada pav ",
-      "Sweet daliya",
-      "Lahsun chutney",
-      "Kinnow",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryms",
-      "Madrasi aloo",
-      "Kadhi pakoda",
-      "Veg khichadi",
-      "Chapati",
-      "Plain rice",
-      "Sambhar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad ",
-      "Soya chaap",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice"
-    ]
-  },
-  {
     "date": "2025-02-07",
     "day": "Friday",
     "breakfast": [
@@ -226,6 +162,73 @@
       "Masala dosa",
       "Tomato rice",
       "Chapati( ltd)"
+    ]
+  },
+  {
+    "date": "2025-02-12",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Methi thepla ",
+      "Curd",
+      "Khatti meethi tomato chutney",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer hyderabadi ( mint base green gravy)",
+      "Dal makhani",
+      "Chapati",
+      "Green peas pulao",
+      "Mix veg raita",
+      "Cookies & cream i/c"
+    ],
+    "dinner": [
+      "Pasta salad",
+      "Veg diwani handi",
+      "Chana dal tadka",
+      "Plain rice",
+      "Chapati",
+      "Rasam",
+      "Hot choco milk"
+    ]
+  },
+  {
+    "date": "2025-02-13",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Bread pakoda",
+      "Tomato ketchup ",
+      "Sweet daliya",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Fryms",
+      "Aloo rai wala tadka",
+      "Kadhi pakoda",
+      "Curd rice",
+      "Chapati",
+      "Plain rice",
+      "Sambhar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Mirch ka salan",
+      "Pindi chole",
+      "Bhature/ chapati",
+      "Jeera rice",
+      "Onion mint raita",
+      "Coconut burfi"
     ]
   }
 ]
