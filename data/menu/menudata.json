@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-07",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mutter kulcha",
-      "Sweet daliya",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Peanut salad",
-      "Baingan bharta",
-      "Shahi gobhi",
-      "Dal tadka",
-      "Sattu paratha",
-      "Plain rice",
-      "Burani raita"
-    ],
-    "dinner": [
-      "Khim chi salad ( purple cabbage, bell pepper )",
-      "Veg manchurian",
-      "Black masoor dal",
-      "Egg fried rice / veg fried rice",
-      "Chowmin",
-      "Chapati",
-      "Fruit custsrd"
-    ]
-  },
-  {
     "date": "2025-02-08",
     "day": "Saturday",
     "breakfast": [
@@ -229,6 +196,39 @@
       "Jeera rice",
       "Onion mint raita",
       "Coconut burfi"
+    ]
+  },
+  {
+    "date": "2025-02-14",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Misal ",
+      "Pav",
+      "Lemon + onion",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Bhel with chutney",
+      "Tawa veg",
+      "Mix kathol",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Pineapple raita"
+    ],
+    "dinner": [
+      "Mirch ke tapore/ lahsun chutney",
+      "Aloo rassa",
+      "Dal fry",
+      "Bati/ chapati",
+      "Plain rice",
+      "Rasam",
+      "Churma"
     ]
   }
 ]
