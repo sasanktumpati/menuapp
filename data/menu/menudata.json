@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-02-09",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Besan chilla",
-      "Green chutney",
-      "Sweet daliya",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer -puru pasanda ( paneer mewari)",
-      "Chicken kaswan ( kuku paka chicken)",
-      "Biryani-e-malik ( veg biryani)",
-      "Naan / chapati",
-      "Boondi raita",
-      "Kala kand"
-    ],
-    "dinner": [
-      "Green salad",
-      "Gutta curry",
-      "Red masoor tadka",
-      "Plain rice",
-      "Chapati",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2025-02-10",
     "day": "Monday",
     "breakfast": [
@@ -230,5 +198,6 @@
       "Rasam",
       "Malpua rabdi "
     ]
-  }
+  },
+  null
 ]
