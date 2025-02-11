@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-10",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg poha",
-      "Sev",
-      "Lemon + onion",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Gobhi mutter dry",
-      "Rajma rasila",
-      "Sabut malkamasoor dal",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi"
-    ],
-    "dinner": [
-      "Green salad",
-      "Dahi aloo kashmiri",
-      "Dal maharani",
-      " chapati",
-      "Plain rice",
-      "Rasam",
-      "Tomato soup"
-    ]
-  },
-  {
     "date": "2025-02-11",
     "day": "Tuesday",
     "breakfast": [
@@ -199,5 +165,6 @@
       "Malpua rabdi "
     ]
   },
+  null,
   null
 ]
