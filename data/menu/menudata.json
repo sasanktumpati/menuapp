@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-11",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo pyaaz paratha",
-      "Curd",
-      "Pickel",
-      "Kinnow",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Papapdi chaat",
-      "Capsicum pitla",
-      "Veg kofta curry",
-      "Dal palak",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Tomato /peanut chutney",
-      "Vada",
-      "Sambhar",
-      "Masala dosa",
-      "Tomato rice",
-      "Chapati( ltd)"
-    ]
-  },
-  {
     "date": "2025-02-12",
     "day": "Wednesday",
     "breakfast": [
@@ -165,6 +132,7 @@
       "Malpua rabdi "
     ]
   },
+  null,
   null,
   null
 ]
