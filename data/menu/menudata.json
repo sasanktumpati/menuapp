@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-12",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Methi thepla ",
-      "Curd",
-      "Khatti meethi tomato chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer hyderabadi ( mint base green gravy)",
-      "Dal makhani",
-      "Chapati",
-      "Green peas pulao",
-      "Mix veg raita",
-      "Cookies & cream i/c"
-    ],
-    "dinner": [
-      "Pasta salad",
-      "Veg diwani handi",
-      "Chana dal tadka",
-      "Plain rice",
-      "Chapati",
-      "Rasam",
-      "Hot choco milk"
-    ]
-  },
-  {
     "date": "2025-02-13",
     "day": "Thursday",
     "breakfast": [
@@ -132,6 +99,7 @@
       "Malpua rabdi "
     ]
   },
+  null,
   null,
   null,
   null
