@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-13",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakoda",
-      "Tomato ketchup ",
-      "Sweet daliya",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryms",
-      "Aloo rai wala tadka",
-      "Kadhi pakoda",
-      "Curd rice",
-      "Chapati",
-      "Plain rice",
-      "Sambhar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Mirch ka salan",
-      "Pindi chole",
-      "Bhature/ chapati",
-      "Jeera rice",
-      "Onion mint raita",
-      "Coconut burfi"
-    ]
-  },
-  {
     "date": "2025-02-14",
     "day": "Friday",
     "breakfast": [
@@ -99,6 +65,7 @@
       "Malpua rabdi "
     ]
   },
+  null,
   null,
   null,
   null,
