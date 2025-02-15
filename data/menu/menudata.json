@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-14",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Misal ",
-      "Pav",
-      "Lemon + onion",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Bhel with chutney",
-      "Tawa veg",
-      "Mix kathol",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Pineapple raita"
-    ],
-    "dinner": [
-      "Mirch ke tapore/ lahsun chutney",
-      "Aloo rassa",
-      "Dal fry",
-      "Bati/ chapati",
-      "Plain rice",
-      "Rasam",
-      "Churma"
-    ]
-  },
-  {
     "date": "2025-02-15",
     "day": "Saturday",
     "breakfast": [
@@ -65,6 +32,7 @@
       "Malpua rabdi "
     ]
   },
+  null,
   null,
   null,
   null,
