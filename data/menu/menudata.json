@@ -1,37 +1,5 @@
 [
-  {
-    "date": "2025-02-15",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Punugulu",
-      "Sweet daliya",
-      "Adrak chutney",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Veg shami kebab",
-      "Ragda mutter",
-      "Curd /butter",
-      "Aloo paraths",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo methi dry",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Malpua rabdi "
-    ]
-  },
+  null,
   null,
   null,
   null,
