@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-18",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout ",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo paratha",
-      "Curd",
-      "Tomato ketchup",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Aloo mutter dry",
-      "Shahi gobhi",
-      "Dal maharani",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Gulab jamun"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Khatta meetha pumpkin",
-      "Chole masala",
-      "Ajwaini puri / chapati",
-      "Jeera rice",
-      "Boondi raita"
-    ]
-  },
-  {
     "date": "2025-02-19",
     "day": "Wednesday",
     "breakfast": [
@@ -228,6 +195,40 @@
       "Masala dosa",
       "Lemon rice",
       "Chapati( ltd)"
+    ]
+  },
+  {
+    "date": "2025-02-25",
+    "day": "Tuesday",
+    "breakfast": [
+      "Mix sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Gobhi paratha",
+      "Curd",
+      "Tomato ketchup",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Microni salad",
+      "Aloo gobhi adraki",
+      "Gutta curry",
+      "Dal palak",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Litchi sharbet"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Mirch ka salan",
+      "Chole masala",
+      "Bhature / chapati",
+      "Jeera rice",
+      "Rasam",
+      "Sahi tukda"
     ]
   }
 ]
