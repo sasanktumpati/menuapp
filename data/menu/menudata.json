@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-20",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Pav",
-      "Missal",
-      "Cut onion lemon",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Aloo chips",
-      "Sweet potato dry",
-      "Onion kadhi",
-      "Veg khichadi",
-      "Chapati",
-      "Plain rice",
-      "Sambhar",
-      "Coconut burfi"
-    ],
-    "dinner": [
-      "Peanut salad",
-      "Veg manchurian",
-      "Black masoor dal",
-      "Egg fried rice / veg fried rice/veg hakka noodles",
-      "Chapati",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2025-02-21",
     "day": "Friday",
     "breakfast": [
@@ -229,6 +196,40 @@
       "Chapati",
       "Rasam",
       "Veg manchow soup"
+    ]
+  },
+  {
+    "date": "2025-02-27",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Stuffed kukcha",
+      "Green chutney",
+      "Sweet daliya",
+      "Graps",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Roasted papapd",
+      "Rawa banana masala",
+      "Kadhi pakoda",
+      "Curd rice",
+      "Chapati",
+      "Plain rice",
+      "Sambhar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Green salad",
+      "Aloo muttter tamatar",
+      "Arhar dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Gajar ka hlwa "
     ]
   }
 ]
