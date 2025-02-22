@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-21",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sabuna khichdi",
-      "Curd",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Papadi chaat",
-      "Masala aloo dry",
-      "Veg kofta curry",
-      "Dal datka",
-      "Chapati",
-      "Jeera rice",
-      "Burani raita",
-      "Orange sharbet"
-    ],
-    "dinner": [
-      "Corn tikki/ green chutney",
-      "Paneer tikka masala",
-      "Chicken kolhapuri",
-      "Jafrani pulao",
-      "Tikona paratha",
-      "Rasam",
-      "Moong dal halwa"
-    ]
-  },
-  {
     "date": "2025-02-22",
     "day": "Saturday",
     "breakfast": [
@@ -230,6 +197,40 @@
       "Plain rice",
       "Rasam",
       "Gajar ka hlwa "
+    ]
+  },
+  {
+    "date": "2025-02-28",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Beasan chilla",
+      "Green chutney",
+      "Seviya kheer",
+      "Watermelon",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Bhel puri",
+      "Mix veg dry",
+      "Palak corn",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mix blast"
+    ],
+    "dinner": [
+      "Green salad",
+      "Soya chaap",
+      "Dal makhani",
+      "Chapati",
+      "Plain rice",
+      "Cucumber raita",
+      "Jalebi"
     ]
   }
 ]
