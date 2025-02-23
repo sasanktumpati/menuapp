@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-22",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg poha",
-      "Sev",
-      "Onion + lemon",
-      "Graps",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Tomato ketchup",
-      "French fries",
-      "Ragda mutter",
-      "Curd /butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar",
-      "Khush sharbet"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg kolhapuri",
-      "Dal fry",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Seviya kheer"
-    ]
-  },
-  {
     "date": "2025-02-23",
     "day": "Sunday",
     "breakfast": [
@@ -232,5 +198,6 @@
       "Cucumber raita",
       "Jalebi"
     ]
-  }
+  },
+  null
 ]
