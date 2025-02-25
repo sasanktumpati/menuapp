@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-24",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Methi thepla",
-      "Sweet daliya",
-      "Green chuntey",
-      "Kinnu",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Aloo chana chaat",
-      "Lauki masala dry",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Tomato/ coconut chutney",
-      "Vada",
-      "Sambhar",
-      "Masala dosa",
-      "Lemon rice",
-      "Chapati( ltd)"
-    ]
-  },
-  {
     "date": "2025-02-25",
     "day": "Tuesday",
     "breakfast": [
@@ -167,6 +134,7 @@
       "Jalebi"
     ]
   },
+  null,
   null,
   null
 ]
