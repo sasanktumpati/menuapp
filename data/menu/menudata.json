@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-25",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Gobhi paratha",
-      "Curd",
-      "Tomato ketchup",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Microni salad",
-      "Aloo gobhi adraki",
-      "Gutta curry",
-      "Dal palak",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Litchi sharbet"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Mirch ka salan",
-      "Chole masala",
-      "Bhature / chapati",
-      "Jeera rice",
-      "Rasam",
-      "Sahi tukda"
-    ]
-  },
-  {
     "date": "2025-02-26",
     "day": "Wednesday",
     "breakfast": [
@@ -134,6 +100,7 @@
       "Jalebi"
     ]
   },
+  null,
   null,
   null,
   null
