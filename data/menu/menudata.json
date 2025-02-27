@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-02-26",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Onion tomato utappam",
-      "Sambhar",
-      "Coconut chutney",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Mutter paneer",
-      "Dal makhani",
-      "Chapati",
-      "Onion pulao",
-      "Lauki raita",
-      "Cookies & cream i/c"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg diwani handi",
-      "Dal masala",
-      "Plain rice",
-      "Chapati",
-      "Rasam",
-      "Veg manchow soup"
-    ]
-  },
-  {
     "date": "2025-02-27",
     "day": "Thursday",
     "breakfast": [
@@ -100,6 +67,7 @@
       "Jalebi"
     ]
   },
+  null,
   null,
   null,
   null,
