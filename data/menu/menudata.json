@@ -1,39 +1,5 @@
 [
   {
-    "date": "2025-02-27",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Stuffed kukcha",
-      "Green chutney",
-      "Sweet daliya",
-      "Graps",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papapd",
-      "Rawa banana masala",
-      "Kadhi pakoda",
-      "Curd rice",
-      "Chapati",
-      "Plain rice",
-      "Sambhar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo muttter tamatar",
-      "Arhar dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Gajar ka hlwa "
-    ]
-  },
-  {
     "date": "2025-02-28",
     "day": "Friday",
     "breakfast": [
@@ -67,6 +33,7 @@
       "Jalebi"
     ]
   },
+  null,
   null,
   null,
   null,
