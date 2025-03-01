@@ -1,38 +1,5 @@
 [
-  {
-    "date": "2025-02-28",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Beasan chilla",
-      "Green chutney",
-      "Seviya kheer",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Bhel puri",
-      "Mix veg dry",
-      "Palak corn",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mix blast"
-    ],
-    "dinner": [
-      "Green salad",
-      "Soya chaap",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Cucumber raita",
-      "Jalebi"
-    ]
-  },
+  null,
   null,
   null,
   null,
