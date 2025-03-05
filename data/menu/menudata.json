@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-04",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Gobhi paratha",
-      "Curd",
-      "Pickel",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macroni salad",
-      "Soya handi",
-      "Palak corn",
-      "Arhar dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Chocochip i/c"
-    ],
-    "dinner": [
-      "Cut onion + lemon",
-      "Khata meetha pumpkin",
-      "Chole masala",
-      "Puri",
-      "Jeera rice",
-      "Cucumber raita"
-    ]
-  },
-  {
     "date": "2025-03-05",
     "day": "Wednesday",
     "breakfast": [
@@ -220,6 +187,39 @@
       "Bati",
       "Rasam",
       "Churma"
+    ]
+  },
+  {
+    "date": "2025-03-11",
+    "day": "Tuesday",
+    "breakfast": [
+      "Mix sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg paratha",
+      "Curd",
+      "Pickel",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Peanut salad",
+      "Lauki chana",
+      "Veg kofta curry",
+      "Red masoor dal",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Ice tea"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Jeera aloo",
+      "Chole masala",
+      "Bhature",
+      "Jeera rice",
+      "Mix veg raita"
     ]
   }
 ]
