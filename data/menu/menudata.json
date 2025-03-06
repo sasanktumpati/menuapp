@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-05",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Idli",
-      "Sambhar",
-      "Coconut chutney",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lababdar",
-      "Chicken curry",
-      "Chapati",
-      "Veg pulao",
-      "Onion mint raita",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Aloo chana chaat",
-      "Veg makhanwala",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Cold chocomilk"
-    ]
-  },
-  {
     "date": "2025-03-06",
     "day": "Thursday",
     "breakfast": [
@@ -220,6 +187,38 @@
       "Bhature",
       "Jeera rice",
       "Mix veg raita"
+    ]
+  },
+  {
+    "date": "2025-03-12",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Onion tomato utappam",
+      "Sambhar",
+      "Coconut chutney",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Palak paneer",
+      "Dal makhani",
+      "Chapati",
+      "Pulao rice",
+      "Boondi raita",
+      "Butter scotch i/c"
+    ],
+    "dinner": [
+      "Green salad",
+      "Methi mutter malai",
+      "Butter dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
