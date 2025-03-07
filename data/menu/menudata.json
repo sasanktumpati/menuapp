@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-03-06",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Myasore bonda",
-      "Adrak chutney",
-      "Sweet daliya",
-      "Orange",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryms",
-      "Kadhi pakoda",
-      "Madrasi aloo",
-      "Veg khichdi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Strawberry lassi"
-    ],
-    "dinner": [
-      "Coconut chutney/tomato chutney",
-      "Vada",
-      "Masala dosa",
-      "Sambar",
-      "Lemon rice"
-    ]
-  },
-  {
     "date": "2025-03-07",
     "day": "Friday",
     "breakfast": [
@@ -219,6 +187,40 @@
       "Chapati",
       "Plain rice",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak puri",
+      "Aloo bhaji",
+      "Lemon + lemon",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Roasted papad",
+      "Spring onion kadhi",
+      "Raw banana masala",
+      "Curd rice",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Rasna"
+    ],
+    "dinner": [
+      "Toss salad",
+      "Veg manchurian",
+      "Black masoor dal",
+      "Egg fried rice / veg fried rice/veg hakka noodles",
+      "Chapati",
+      "Rasam",
+      "Fruit custard"
     ]
   }
 ]
