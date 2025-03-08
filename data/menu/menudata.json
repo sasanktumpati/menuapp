@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-07",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mutter",
-      "Kulcha",
-      "Cut onion lemon",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Papadi chaat",
-      "Tawa veg",
-      "Gatta curry",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Cookies n cream i/c"
-    ],
-    "dinner": [
-      "Onion salad",
-      "Soya chaap",
-      "Dal maharani",
-      "Chapati",
-      "Pulao rice",
-      "Burani raita"
-    ]
-  },
-  {
     "date": "2025-03-08",
     "day": "Saturday",
     "breakfast": [
@@ -222,5 +189,24 @@
       "Rasam",
       "Fruit custard"
     ]
+  },
+  {
+    "date": "2025-03-14",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Misal",
+      "Pav",
+      "Lemon + onion",
+      "Grapes",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Holi"
+    ],
+    "dinner": []
   }
 ]
