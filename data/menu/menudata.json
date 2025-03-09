@@ -1,31 +1,5 @@
 [
   {
-    "date": "2025-03-08",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Besan chila",
-      "Green chutney",
-      "Sweet daliya",
-      "Grapes",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Tomato ketchup",
-      "French fries",
-      "Kala chana masala",
-      "Curd /butter",
-      "Aloo pyaaz paratha",
-      "Plain rice",
-      "Sambar",
-      "Rooh afza"
-    ],
-    "dinner": []
-  },
-  {
     "date": "2025-03-09",
     "day": "Sunday",
     "breakfast": [
@@ -208,5 +182,39 @@
       "Holi"
     ],
     "dinner": []
+  },
+  {
+    "date": "2025-03-15",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg upma",
+      "Sweet daliya",
+      "Coconut chutney",
+      "Orange",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green chutney",
+      "Corn tikki",
+      "Ragda mutter",
+      "Curd /butter",
+      "Gobhi paratha",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Corn salad",
+      "Dum aloo",
+      "Dal tadka",
+      "Plain rice",
+      "Chapati",
+      "Rasam",
+      "Gajar ka halwa"
+    ]
   }
 ]
