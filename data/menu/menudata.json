@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-09",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Poha",
-      "Sev",
-      "Cut onion + lemon",
-      "Kinu",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lahori",
-      "Chicken do pyaza",
-      "Naan",
-      "Onion pulao",
-      "Pineapple raita",
-      "Mix blast"
-    ],
-    "dinner": [
-      "Bhel poori",
-      "Gajar mutter",
-      "Mix dal",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Besan burfi"
-    ]
-  },
-  {
     "date": "2025-03-10",
     "day": "Monday",
     "breakfast": [
@@ -216,5 +183,6 @@
       "Rasam",
       "Gajar ka halwa"
     ]
-  }
+  },
+  null
 ]
