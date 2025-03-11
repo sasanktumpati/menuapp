@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-10",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Sweet daliya",
-      "Penvi bair",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Aloo gobhi",
-      "Rajma rangoli",
-      "Dal palak",
-      "Chapati/sattu paratha",
-      "Plain rice",
-      "Sambar",
-      "Mango lassi"
-    ],
-    "dinner": [
-      "Lahun chutney",
-      "Mirch ke tapory",
-      "Aloo rassa",
-      "Chana dal tadka",
-      "Bati",
-      "Rasam",
-      "Churma"
-    ]
-  },
-  {
     "date": "2025-03-11",
     "day": "Tuesday",
     "breakfast": [
@@ -184,5 +151,6 @@
       "Gajar ka halwa"
     ]
   },
+  null,
   null
 ]
