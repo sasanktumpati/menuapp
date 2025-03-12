@@ -1,38 +1,5 @@
 [
   {
-    "date": "2025-03-11",
-    "day": "Tuesday",
-    "breakfast": [
-      "Mix sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg paratha",
-      "Curd",
-      "Pickel",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Peanut salad",
-      "Lauki chana",
-      "Veg kofta curry",
-      "Red masoor dal",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Ice tea"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Jeera aloo",
-      "Chole masala",
-      "Bhature",
-      "Jeera rice",
-      "Mix veg raita"
-    ]
-  },
-  {
     "date": "2025-03-12",
     "day": "Wednesday",
     "breakfast": [
@@ -151,6 +118,7 @@
       "Gajar ka halwa"
     ]
   },
+  null,
   null,
   null
 ]
