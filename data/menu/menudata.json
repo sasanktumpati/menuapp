@@ -1,37 +1,5 @@
 [
   {
-    "date": "2025-03-12",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Onion tomato utappam",
-      "Sambhar",
-      "Coconut chutney",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Palak paneer",
-      "Dal makhani",
-      "Chapati",
-      "Pulao rice",
-      "Boondi raita",
-      "Butter scotch i/c"
-    ],
-    "dinner": [
-      "Green salad",
-      "Methi mutter malai",
-      "Butter dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2025-03-13",
     "day": "Thursday",
     "breakfast": [
@@ -118,6 +86,7 @@
       "Gajar ka halwa"
     ]
   },
+  null,
   null,
   null,
   null
