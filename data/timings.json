@@ -1,12 +1,12 @@
 {
   "default_timings": {
     "breakfast": {
-      "start": "07:00",
+      "start": "07:30",
       "end": "09:30",
       "type": "breakfast"
     },
     "lunch": {
-      "start": "11:30",
+      "start": "12:00",
       "end": "13:30",
       "type": "lunch"
     },
@@ -18,13 +18,13 @@
   },
   "sunday_timings": {
     "breakfast": {
-      "start": "07:00",
+      "start": "07:30",
       "end": "09:30",
       "type": "breakfast"
     },
     "lunch": {
       "start": "12:00",
-      "end": "14:00",
+      "end": "13:30",
       "type": "lunch"
     },
     "dinner": {
