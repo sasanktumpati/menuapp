@@ -1,174 +1,52 @@
 [
     {
-        "date": "2025-11-01",
-        "day": "Saturday",
-        "breakfast": [
-            "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Seviyan Upma(batches)",
-            "Adrak Chutney",
-            "Papaya",
-            "Tea + Coffee",
-            "Milk"
-        ],
-        "lunch": [
-            "Crispy Corn",
-            "Kala Chana Masala",
-            "Curd/Butter",
-            "Aloo Paratha",
-            "Plain Rice",
-            "Sambar",
-            "Jal Jeera"
-        ],
-        "dinner": [
-            "Green Salad",
-            "Mix Veg",
-            "Butter Dal",
-            "Chapati",
-            "Plain Rice"
-        ]
-    },
-    {
-        "date": "2025-11-02",
+        "date": "2025-11-16",
         "day": "Sunday",
         "breakfast": [
             "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
+            "Moong Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
             "M/S Dosa",
             "Sambhar",
             "Coconut Chutney",
-            "Cut Pineapple",
-            "Tea + Coffee",
+            "Kinnow",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Onion Salad",
+            "Corn Tikki",
             "Paneer Butter M/S",
-            "Chicken Home Style",
+            "Chicken Biryani",
             "Naan/Chapati(ltd)",
             "Veg Pulao",
-            "Mix Veg Raita",
-            "Butter S/C Ice Cream"
-        ],
-        "dinner": [
-            "Green Salad",
-            "Aloo Gobhi",
-            "Dal Lasooni",
-            "Chapati",
-            "Plain Rice",
-            "Cream of Tomato Soup"
-        ]
-    },
-    {
-        "date": "2025-11-03",
-        "day": "Monday",
-        "breakfast": [
-            "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Mix Veg Poha",
-            "Sev",
-            "Onion + Lemon",
-            "Cut Apple",
-            "Tea + Coffee",
-            "Milk"
-        ],
-        "lunch": [
-            "Green Salad",
-            "Lauki Chana Dal",
-            "Rajma Masala",
-            "Dal Tadka",
-            "Chapati",
-            "Plain Rice",
-            "Sambar",
-            "Ice Tea"
-        ],
-        "dinner": [
-            "Green Salad",
-            "Bhaji",
-            "Dhaba Dal",
-            "PAV/Chapati",
-            "Plain Rice",
-            "Chocolate Burfi"
-        ]
-    },
-    {
-        "date": "2025-11-04",
-        "day": "Tuesday",
-        "breakfast": [
-            "Moong Sprout",
-            "Cornflakes",
-            "Bread + Jam",
-            "Gobhi Paratha",
-            "Curd",
-            "Mix Pickle",
-            "Banana",
-            "Tea + Coffee",
-            "Milk"
-        ],
-        "lunch": [
-            "Roasted Papad",
-            "Madrasi Aloo",
-            "Kadhi Pakoda",
-            "Moong Dal Khichidi",
-            "Chapati",
-            "Plain Rice",
+            "Boondi Raita",
             "Sambar"
         ],
         "dinner": [
-            "Mirchi Tapoorey/Lahsun Chutney",
-            "Aloo Rassa",
-            "Dal Tadka",
-            "Chapati/Batti",
-            "Jeera Rice",
-            "Chorma"
-        ]
-    },
-    {
-        "date": "2025-11-05",
-        "day": "Wednesday",
-        "breakfast": [
-            "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Masala Sandwich",
-            "Sweet Daliya",
-            "Tomato Sauce",
-            "Honey Dew",
-            "Tea + Coffee",
-            "Milk"
-        ],
-        "lunch": [
             "Green Salad",
-            "Paneer Tikka Masala",
-            "Dhaba Chicken",
-            "Tikona Paratha",
-            "Peas Pulao",
-            "Onion Mint Raita"
-        ],
-        "dinner": [
-            "Aloo Kala Channa Chat",
-            "Veg Korma",
-            "Mix Dal",
-            "Chapati",
+            "Sarson Ka Saag",
+            "Dhaba Dal",
+            "Makke Ki Roti/Chapati/GUD",
             "Plain Rice",
-            "Hot Choco Milk"
+            "Jalebi",
+            "Rasam",
+            "Lemon Corinder Soup"
         ]
     },
     {
-        "date": "2025-11-06",
-        "day": "Thursday",
+        "date": "2025-11-17",
+        "day": "Monday",
         "breakfast": [
             "Choice of Egg",
+            "Moth Sprout",
             "Cornflakes",
-            "Bread + Jam",
-            "Palak Puri",
-            "Aloo Bhaji",
+            "Bread + Butter + Jam",
+            "Veg Poha",
+            "Sev",
             "Lemon + Onion",
-            "Papaya",
-            "Tea + Coffee",
+            "Cut Apple",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
@@ -178,92 +56,207 @@
             "Dal Panchratan",
             "Chapati",
             "Plain Rice",
-            "Sambar"
+            "Sambar",
+            "Plain Curd"
         ],
         "dinner": [
-            "Khimchi Salad",
-            "Veg Manchurian",
-            "Dal Makhani",
-            "Chapati",
-            "VEG/Egg Fried Rice",
-            "Gulab Jamun"
+            "Lemon + Onion",
+            "Pav Bhaji",
+            "Arhar Dal Tadka",
+            "PAV/Chapati(ltd)",
+            "Plain Rice",
+            "Shahi Tukda",
+            "Rasam",
+            "Sweet Corn Soup"
         ]
     },
     {
-        "date": "2025-11-07",
-        "day": "Friday",
+        "date": "2025-11-18",
+        "day": "Tuesday",
         "breakfast": [
             "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Stuffed Kulcha",
-            "Sweet Daliya",
-            "Tomato Sauce",
-            "Cut Pineapple",
-            "Tea + Coffee",
+            "Soyabean Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Gobhi Paratha",
+            "Curd",
+            "Mix Pickle",
+            "Banana",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Corn Salad ( Sep)",
-            "Aloo Palak",
-            "Gutta Curry",
-            "Dal Lahsuni",
+            "Bhel Poori ( Batch)",
+            "Lauki Chana Dal",
+            "Rajma Masala",
+            "Dal Tadka",
             "Chapati",
             "Plain Rice",
             "Sambar",
             "Pineapple Raita"
         ],
         "dinner": [
-            "Green Salad",
-            "Aloo Gobhi Adraki",
-            "Dal Maharani",
-            "Chapati",
-            "Plain Rice",
-            "Veg Manchow"
+            "Mairchi Tapoorey/Lahsun Chutney",
+            "Aloo Rassa",
+            "Dal Tadka",
+            "Chapati/Batti",
+            "Jeera Rice",
+            "Rasam",
+            "Chorma"
         ]
     },
     {
-        "date": "2025-11-08",
-        "day": "Saturday",
+        "date": "2025-11-19",
+        "day": "Wednesday",
         "breakfast": [
             "Choice of Egg",
+            "Mix Sprout Tadka",
             "Cornflakes",
-            "Bread + Jam",
-            "Veg Upma",
-            "Adrak Chutney",
-            "Cut Apple",
-            "Tea + Coffee",
+            "Bread + Butter + Jam",
+            "Masala Sandwich",
+            "Sweet Daliya Thik",
+            "Tomato Sauce",
+            "Guava",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Crispy Corn",
+            "Green Salad",
+            "Paneer Lababdar",
+            "Chicken Kuku Paka",
+            "Tikona Paratha",
+            "Peas Pulao",
+            "Onion Mint Raita",
+            "Sambar"
+        ],
+        "dinner": [
+            "Medu Wada",
+            "Masala Dosa",
+            "Sambhar",
+            "Chapati",
+            "Tamarind Rice",
+            "Coconut Chutney",
+            "Rasam",
+            "Hot Choco Milk"
+        ]
+    },
+    {
+        "date": "2025-11-20",
+        "day": "Thursday",
+        "breakfast": [
+            "Choice of Egg",
+            "Chana Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Ajwani Puri",
+            "Aloo Bhaji",
+            "Lemon + Onion",
+            "Papaya",
+            "Tea + Coffee + Bv",
+            "Milk"
+        ],
+        "lunch": [
+            "Fryums",
+            "Raw Banana Masala",
+            "Kadhi Pakoda",
+            "Moong Dal Khichidi",
+            "Chapati",
+            "Plain Rice",
+            "Sambar",
+            "Plain Curd"
+        ],
+        "dinner": [
+            "Khim Chi Salad",
+            "Veg Manchurian",
+            "Dal Maharani",
+            "Chapati",
+            "VEG/Egg Fried Rice",
+            "Rasam",
+            "Hot Badam Milk"
+        ]
+    },
+    {
+        "date": "2025-11-21",
+        "day": "Friday",
+        "breakfast": [
+            "Choice of Egg",
+            "Moong Sprout",
+            "Cornflakes",
+            "Bread + Butter + Jam",
+            "Sauteed/Plain Idli",
+            "Sambhar",
+            "Coconut Chutney",
+            "Cut Pineapple",
+            "Tea + Coffee + Bv",
+            "Milk"
+        ],
+        "lunch": [
+            "Dahi Wada",
+            "Aloo Beans Mutter",
+            "Gutta Curry",
+            "Red Masoor Dal",
+            "Chapati",
+            "Plain Rice",
+            "Sambar",
+            "Plain Curd"
+        ],
+        "dinner": [
+            "Corn Salad ( Sep)",
+            "Soya Chaap Masala",
+            "Egg Curry",
+            "Jeera Rice",
+            "Chapti",
+            "Rasam",
+            "Palak Soup"
+        ]
+    },
+    {
+        "date": "2025-11-22",
+        "day": "Saturday",
+        "breakfast": [
+            "Choice of Egg",
+            "Moth Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Veg Upma",
+            "Sweet Daliya Thik",
+            "Adrak Chutney",
+            "Kinnow",
+            "Tea + Coffee + Bv",
+            "Milk"
+        ],
+        "lunch": [
+            "Crisy Corn",
             "White Mutter M/S",
             "Curd/Butter",
             "Aloo Paratha",
             "Plain Rice",
-            "Sambar"
+            "Sambar",
+            "Besan Ladoo"
         ],
         "dinner": [
             "Green Salad",
-            "Sev Tomato",
-            "Dal Panchratan",
+            "Aloo Gobhi Adraki",
+            "Moog Dal Tadka",
             "Chapati",
             "Plain Rice",
+            "Rasam",
             "Veg Clear Soup"
         ]
     },
     {
-        "date": "2025-11-09",
+        "date": "2025-11-23",
         "day": "Sunday",
         "breakfast": [
             "Choice of Egg",
+            "Soya Sprout",
             "Cornflakes",
-            "Bread + Jam",
-            "M/S Sandwich",
-            "Sev",
-            "Cut Onion + Lemon",
-            "Banana",
-            "Tea + Coffee",
+            "Bread + Butter + Jam",
+            "Vada Pav",
+            "Sweet Daliya Thik",
+            "Dhaniya Chutney/Fry Chilli",
+            "Cut Apple",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
@@ -272,72 +265,80 @@
             "Kadhai Chicken",
             "Naan/Chapati(ltd)",
             "Biryani Pulao",
-            "Boondi Raita"
+            "Cucumber Raita",
+            "Sambar"
         ],
         "dinner": [
-            "Green Salad",
-            "Methi Malai Mutter",
-            "Butter Dal Tadka",
-            "Chapati",
+            "Veg Bulltes Sezwan",
+            "Aloo Pyaaz Ki Sabzi",
+            "Dal Makhani",
+            "Bajari Ki Roti/GUD",
             "Plain Rice",
-            "Lauki Halwa",
+            "Moong Dal Halwa",
+            "Rasam",
             "Tomato Soup"
         ]
     },
     {
-        "date": "2025-11-10",
+        "date": "2025-11-24",
         "day": "Monday",
         "breakfast": [
             "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Mix Veg Poha",
-            "Sweet Daliya",
-            "Tomato Sauce",
-            "Honey Dew",
-            "Tea + Coffee",
+            "Mix Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Tomato Onion Utappam",
+            "Sambhar",
+            "Coconut Chutney",
+            "Banana",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Macaroni Salad (No Cucumber)",
-            "Jeera Aloo",
+            "Macaroni Salad",
+            "Madrasi Aloo",
             "Lobiya Masala",
             "Dal Tadka",
             "Chapati",
             "Plain Rice",
-            "Sambar"
+            "Sambar",
+            "Plain Curd"
         ],
         "dinner": [
-            "Lemon + Onion",
-            "Veg Kohlapuri",
-            "Dal Lahsuni",
-            "Chapati",
-            "Plain Rice",
-            "Hot & Sour Soup"
+            "Corn Cheese Ball",
+            "Shahi Paneer",
+            "Butter Chicken",
+            "Garic Naan/Chapati",
+            "Navratan Pulao",
+            "Boondi Raita",
+            "Rasam",
+            "Gulab Jamun"
         ]
     },
     {
-        "date": "2025-11-11",
+        "date": "2025-11-25",
         "day": "Tuesday",
         "breakfast": [
-            "Moong Sprout",
+            "Choice of Egg",
+            "Chana Sprout",
             "Cornflakes",
-            "Bread + Jam",
+            "Bread + Butter + Jam",
             "Aloo Pyaaz Paratha",
             "Curd",
             "Mix Pickle",
-            "Papaya",
-            "Tea + Coffee",
+            "Guava",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Green Salad",
+            "Corn Tikki",
             "Gobhi Mutter Dry",
             "Palak Corn",
             "Dal Fry",
             "Chapati",
             "Plain Rice",
-            "Sambar"
+            "Sambar",
+            "Plain Curd"
         ],
         "dinner": [
             "Lemon + Onion",
@@ -345,31 +346,35 @@
             "Chole Masala",
             "Puri",
             "Jeera Rice",
-            "Hot Badam Milk"
+            "Tomato Soup",
+            "Rasam",
+            "Coconut Burfi"
         ]
     },
     {
-        "date": "2025-11-12",
+        "date": "2025-11-26",
         "day": "Wednesday",
         "breakfast": [
             "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Tomato Onion Uttapam",
-            "Sambhar",
-            "Coconut Chutney",
-            "Cut Pineapple",
-            "Tea + Coffee",
+            "Moong Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Misal",
+            "Pav",
+            "Lemon + Onion",
+            "Papaya",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Green Salad",
+            "Onion Salad",
             "Paneer Lahori",
-            "Dal Makhani",
+            "Butter Chicken",
             "Chapati",
             "Plain Rice",
-            "Cucumber Raita",
-            "Rajashtani Petha"
+            "Pineapple Raita",
+            "Sweet Boondi",
+            "Sambar"
         ],
         "dinner": [
             "Papdi Chaat",
@@ -377,89 +382,99 @@
             "Dal Amritsari",
             "Chapati",
             "Plain Rice",
-            "Cream of Palak(garlic Based)"
+            "Rasam",
+            "Sweet Corn Soup"
         ]
     },
     {
-        "date": "2025-11-13",
+        "date": "2025-11-27",
         "day": "Thursday",
         "breakfast": [
             "Choice of Egg",
+            "Moth Sprout",
             "Cornflakes",
-            "Bread + Jam",
-            "Vada Pav",
-            "Sweet Daliya",
-            "Green Chutney",
-            "Cut Apple",
-            "Tea + Coffee",
+            "Bread + Butter + Jam",
+            "Masala Sandwich",
+            "Tomato Ketchup",
+            "Sweet Daliya Thik",
+            "Cut Pineapple",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
             "Green Salad",
-            "Aloo Mutter Beans",
+            "Jeera Aloo",
             "Chole Masala",
             "Dal Tadka",
             "Chapati",
             "Plain Rice",
+            "Plain Curd",
+            "Chocolate Burfi",
             "Sambar"
         ],
         "dinner": [
-            "Khimchi Salad",
+            "Aloo Chana Chaat",
             "Veg Manchurian",
             "Dal Maharani",
             "Chapati",
             "VEG/Egg Fried Rice",
-            "Fruit Custard"
+            "Rasam",
+            "Fruit Custrad"
         ]
     },
     {
-        "date": "2025-11-14",
+        "date": "2025-11-28",
         "day": "Friday",
         "breakfast": [
             "Choice of Egg",
-            "Cornflakes",
-            "Bread + Jam",
-            "Veg Poha",
+            "Soya Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Chole",
+            "Kulcha",
             "Lemon + Onion",
-            "Banana",
-            "Tea + Coffee",
+            "Kinnow",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Fryms",
-            "Raw Banana Masala",
-            "Kadhi Pakoda",
+            "Aloo Pyazz Pakoda",
+            "Mix Veg Dry",
+            "Rajashtani Kadhi",
             "Veg Khichidi",
-            "Chapati",
-            "Jeera Rice",
+            "Chapati/Roasted Papad",
+            "Plain Rice",
+            "Plain Curd",
+            "Balu Shahi",
             "Sambar"
         ],
         "dinner": [
             "Green Salad",
-            "Aloo Gobhi Adraki",
-            "Dal Lahsooni",
-            "Chapati",
-            "Plain Rice",
+            "Tofu Masala",
+            "Egg Curry",
+            "Onion Pulao",
+            "Chapti",
+            "Rasam",
             "Vegetable Soup"
         ]
     },
     {
-        "date": "2025-11-15",
+        "date": "2025-11-29",
         "day": "Saturday",
         "breakfast": [
             "Choice of Egg",
+            "Mix Sprout",
             "Cornflakes",
-            "Bread + Jam",
-            "Idli",
-            "Sambhar",
+            "Bread + Butter + Jam",
+            "Rawa Idli",
+            "Sabhar",
             "Coconut Chutney",
-            "Honey Dew",
-            "Tea + Coffee",
+            "Cut Apple",
+            "Tea + Coffee + Bv",
             "Milk"
         ],
         "lunch": [
-            "Mix Bhajiya",
-            "Green Chutney",
+            "Crispy Corn",
             "Kala Chana Masala",
             "Curd/Butter",
             "Aloo Paratha",
@@ -467,13 +482,49 @@
             "Sambar"
         ],
         "dinner": [
-            "Bhel Poori",
+            "Green Salad",
             "Veg 65",
-            "Arhar Dal Tadka",
+            "Dal Tadka",
             "Chapati",
             "Plain Rice",
             "Moong Dal Halwa",
+            "Rasam",
             "Veg Manchow"
+        ]
+    },
+    {
+        "date": "2025-11-30",
+        "day": "Sunday",
+        "breakfast": [
+            "Choice of Egg",
+            "Chana Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Mix Veg Poha",
+            "Sev",
+            "Onion + Lemon",
+            "Banana",
+            "Tea + Coffee + Bv",
+            "Milk"
+        ],
+        "lunch": [
+            "Onion Salad",
+            "Paneer Butter M/S",
+            "Chicken Home Style",
+            "Naan/Chapati(ltd)",
+            "Veg Pulao",
+            "Burhani Raita",
+            "Kesari Sheera",
+            "Sambar"
+        ],
+        "dinner": [
+            "Green Salad",
+            "Sarso Ka Saag",
+            "Dhaba Dal",
+            "Makki Ki Roti/GUD",
+            "Plain Rice",
+            "Rasam",
+            "Lemon Corinder Soup"
         ]
     }
 ]
