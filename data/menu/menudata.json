@@ -1,5 +1,40 @@
 [
     {
+        "date": "2025-11-30",
+        "day": "Sunday",
+        "breakfast": [
+            "Choice of Egg",
+            "Chana Sprout",
+            "Chocos",
+            "Bread + Butter + Jam",
+            "Mix Veg Poha",
+            "Sev",
+            "Onion + Lemon",
+            "Banana",
+            "Tea + Coffee + Bv",
+            "Milk"
+        ],
+        "lunch": [
+            "Onion Salad",
+            "Paneer Butter M/S",
+            "Chicken Home Style",
+            "Naan/Chapati(ltd)",
+            "Veg Pulao",
+            "Burhani Raita",
+            "Kesari Sheera",
+            "Sambar"
+        ],
+        "dinner": [
+            "Green Salad",
+            "Sarso Ka Saag",
+            "Dhaba Dal",
+            "Makki Ki Roti/GUD",
+            "Plain Rice",
+            "Rasam",
+            "Lemon Corinder Soup"
+        ]
+    },
+    {
         "date": "2025-12-01",
         "day": "Monday",
         "breakfast": [
