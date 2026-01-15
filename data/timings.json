@@ -7,12 +7,12 @@
         },
         "lunch": {
             "start": "11:30",
-            "end": "13:30",
+            "end": "14:00",
             "type": "lunch"
         },
         "dinner": {
-            "start": "19:00",
-            "end": "20:30",
+            "start": "18:30",
+            "end": "20:00",
             "type": "dinner"
         }
     },
@@ -28,8 +28,8 @@
             "type": "lunch"
         },
         "dinner": {
-            "start": "19:00",
-            "end": "20:30",
+            "start": "18:30",
+            "end": "20:00",
             "type": "dinner"
         }
     },
