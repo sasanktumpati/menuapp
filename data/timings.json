@@ -1,64 +1,42 @@
 {
-    "default_timings": {
-        "breakfast": {
-            "start": "07:30",
-            "end": "09:30",
-            "type": "breakfast"
-        },
-        "lunch": {
-            "start": "11:30",
-            "end": "14:00",
-            "type": "lunch"
-        },
-        "dinner": {
-            "start": "18:30",
-            "end": "20:00",
-            "type": "dinner"
-        }
+  "default_timings": {
+    "breakfast": {
+      "start": "07:30",
+      "end": "09:30",
+      "type": "breakfast"
     },
-    "sunday_timings": {
-        "breakfast": {
-            "start": "08:00",
-            "end": "10:00",
-            "type": "breakfast"
-        },
-        "lunch": {
-            "start": "12:00",
-            "end": "14:00",
-            "type": "lunch"
-        },
-        "dinner": {
-            "start": "18:30",
-            "end": "20:00",
-            "type": "dinner"
-        }
+    "lunch": {
+      "start": "11:30",
+      "end": "14:00",
+      "type": "lunch"
     },
-    "special_days": [
-        {
-            "date": "2024-10-02",
-            "name": "Dusshera",
-            "timings": {
-                "breakfast": {
-                    "start": "07:30",
-                    "end": "09:30",
-                    "type": "breakfast"
-                },
-                "lunch": {
-                    "start": "11:30",
-                    "end": "13:30",
-                    "type": "lunch"
-                },
-                "dinner": {
-                    "start": "18:45",
-                    "end": "20:15",
-                    "type": "dinner"
-                }
-            }
-        }
-    ],
-    "meta": {
-        "timezone": "Asia/Kolkata",
-        "last_updated": "2025-03-25T12:00:00Z",
-        "version": "1.0"
+    "dinner": {
+      "start": "18:30",
+      "end": "20:00",
+      "type": "dinner"
     }
+  },
+  "sunday_timings": {
+    "breakfast": {
+      "start": "08:00",
+      "end": "10:00",
+      "type": "breakfast"
+    },
+    "lunch": {
+      "start": "12:00",
+      "end": "14:00",
+      "type": "lunch"
+    },
+    "dinner": {
+      "start": "18:30",
+      "end": "20:00",
+      "type": "dinner"
+    }
+  },
+  "special_days": [],
+  "meta": {
+    "timezone": "Asia/Kolkata",
+    "last_updated": "2025-03-25T12:00:00Z",
+    "version": "1.0"
+  }
 }
