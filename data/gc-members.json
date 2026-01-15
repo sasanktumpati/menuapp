@@ -1,1 +1,62 @@
-
+[
+  {
+    "name": "Aditya Pratap Rana",
+    "designation": "President",
+    "contact": "8869889654"
+  },
+  {
+    "name": "Vedatman Sonpal",
+    "designation": "Secretary",
+    "contact": "7506919750"
+  },
+  {
+    "name": "Shivansh Parashar",
+    "designation": "Treasurer",
+    "contact": "8126490525"
+  },
+  {
+    "name": "Navneet Singh Virdi",
+    "designation": "RPA M-Rep",
+    "contact": "7290015974"
+  },
+  {
+    "name": "Vihaan Dev",
+    "designation": "SR M-Rep",
+    "contact": "9146094094"
+  },
+  {
+    "name": "Himanshu Harshit",
+    "designation": "SV M-Rep",
+    "contact": "9205629903"
+  },
+  {
+    "name": "Sahil Awasthi",
+    "designation": "VKB M-Rep",
+    "contact": "8219315507"
+  },
+  {
+    "name": "Sehaj Sharma",
+    "designation": "KG M-Rep",
+    "contact": "8899585423"
+  },
+  {
+    "name": "Devasri Bali",
+    "designation": "MB M-Rep",
+    "contact": "9810097764"
+  },
+  {
+    "name": "Maitreyi Singh",
+    "designation": "AMC",
+    "contact": "9307216993"
+  },
+  {
+    "name": "Satvik Beli",
+    "designation": "AMC",
+    "contact": "8982748039"
+  },
+  {
+    "name": "Sannidhya Agrawal",
+    "designation": "AMC",
+    "contact": "8369423146"
+  }
+]
