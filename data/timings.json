@@ -7,7 +7,7 @@
     },
     "lunch": {
       "start": "11:30",
-      "end": "14:00",
+      "end": "13:30",
       "type": "lunch"
     },
     "dinner": {
@@ -36,7 +36,7 @@
   "special_days": [],
   "meta": {
     "timezone": "Asia/Kolkata",
-    "last_updated": "2025-03-25T12:00:00Z",
+    "last_updated": "2026-01-28",
     "version": "1.0"
   }
 }
