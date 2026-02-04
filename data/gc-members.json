@@ -1,18 +1,18 @@
 [
   {
-    "name": "Aditya Pratap Rana",
-    "designation": "President",
-    "contact": "8869889654"
+    "name": "Ishwar Sarda",
+    "designation": "President | AMC ",
+    "contact": "7030924204"
   },
   {
-    "name": "Vedatman Sonpal",
-    "designation": "Secretary",
-    "contact": "7506919750"
+    "name": "Ansh Tholia",
+    "designation": "Secretary | KG M-Rep",
+    "contact": "7413882553"
   },
   {
-    "name": "Devasri Bali",
-    "designation": "Treasurer",
-    "contact": "9810097764"
+    "name": "Divyansh Aggarwal",
+    "designation": "Treasurer | SV M-Rep",
+    "contact": "9463268501"
   },
   {
     "name": "Varinay Agrawal",
@@ -68,15 +68,5 @@
     "name": "Shreyak Shintre",
     "designation": "AMC",
     "contact": "9657156993"
-  },
-  {
-    "name": "Ishwar Sarda",
-    "designation": "AMC",
-    "contact": "7030924204"
-  },
-  {
-    "name": "Munish Jain",
-    "designation": "Ex-Officio Member",
-    "contact": "7992441419"
   }
 ]
