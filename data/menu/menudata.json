@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-02-13",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Soya Sprout",
-      "Corn Flakes",
-      "Bread + Butter + Jam",
-      "Masala Dosa",
-      "Sambhar",
-      "Coconut Chutney",
-      "Pineapple",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion Salad",
-      "Paneer Makhani",
-      "Chicken Dhaba Style",
-      "Naan/Chapati",
-      "Veg Biryani(extra Veg & Fried Potato)",
-      "Mix Veg Raita",
-      "Sambhar",
-      "Pyaaz Ki Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Raw Banana Masala",
-      "Dal Tadka",
-      "Chapati",
-      "Plain Rice",
-      "Rasam",
-      "Veg Manchow Soup",
-      "Lahsun Chutney"
-    ]
-  },
-  {
-    "date": "2026-02-14",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Mix Sprout(tadka)",
-      "Chocos",
-      "Bread + Butter + Jam",
-      "Veg Upma",
-      "Tomato Chutney",
-      "Kinnow",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Crispy Corn",
-      "Ragda Mutter",
-      "Curd/Butter",
-      "Aloo Paratha",
-      "Plain Rice",
-      "Sambhar",
-      "Lahsun Ki Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Soya Chaap",
-      "Egg Curry",
-      "Chapati",
-      "Peas Pulao",
-      "Jalebi",
-      "Rasam",
-      "Lahsun Ki Chutney"
-    ]
-  },
-  {
     "date": "2026-02-15",
     "day": "Sunday",
     "breakfast": [
@@ -102,6 +32,489 @@
       "Rasam",
       "Veg Clear Soup",
       "Lahsun Ki Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Mix Sprout Tadka",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Tomato Onion Utappam",
+      "Sambhar",
+      "Coconut Chutney",
+      "Banana",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Macaroni Salad",
+      "Madrasi Aloo",
+      "Lobiya Masala",
+      "Dal Tadka",
+      "Chapati",
+      "Plain Rice",
+      "Plain Curd",
+      "Sambar",
+      "Lahsun Chutney (dry)"
+    ],
+    "dinner": [
+      "Lemon + Onion",
+      "Mirch Ka Salan",
+      "Chole Masala",
+      "Puri",
+      "Jeera Rice",
+      "Palak Soup",
+      "Rasam",
+      "Seviya Kheer",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "day": "Tuesday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Chana Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Vada Pav",
+      "Sweet Daliya Thik",
+      "Dhaniya Chutney/Fry Chilli",
+      "Pineapple",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Mix Bhajiya/Green Chutney",
+      "Tawa Veg",
+      "Veg Kofta Curry",
+      "Dal Fry",
+      "Chapati",
+      "Plain Rice",
+      "Plain Curd",
+      "Sambar",
+      "Tomato Chutney"
+    ],
+    "dinner": [
+      "Papdi Chaat with Sweet Chutney",
+      "Gajar Mutter",
+      "Dal Amritsari",
+      "Chapati",
+      "Plain Rice",
+      "Lemon Corinder Soup",
+      "Rasam",
+      "Shahi Tukda",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moong Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Methi Thepla",
+      "Dhaniya Chutney",
+      "Sweet Daliya",
+      "Kinnow",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion Salad",
+      "Palak Paneer",
+      "Butter Chicken",
+      "Chapati",
+      "Onion Pulao",
+      "Mix Veg Raita",
+      "Balu Shahi",
+      "Sambar",
+      "Pyaaz Ki Chutney"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Aloo Methi",
+      "Dal Maharani",
+      "Chapati",
+      "VEG/Egg Fried Rice",
+      "Rasam",
+      "Sweet Corn Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moth Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Veg Upma",
+      "Tomato Chutney",
+      "Papaya",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Aloo Tikki/Sweet/Dhaniya Chutney",
+      "Baingan Bharta",
+      "Chole Masala",
+      "Dal Tadka",
+      "Chapati",
+      "Plain Rice",
+      "Plain Curd",
+      "Sambar",
+      "Lahsun Chutney (dry)"
+    ],
+    "dinner": [
+      "Medu Wada",
+      "Masala Dosa",
+      "Sambhar",
+      "Chapati",
+      "Missibili Bhat",
+      "Coconut Chutney",
+      "Rasam",
+      "Hot Chocolate Milk",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Soya Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Misal",
+      "Pav",
+      "Lemon + Onion",
+      "Grapes",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Fryms",
+      "Mix Veg Dry",
+      "Pakoda Kadhi",
+      "Veg Khichidi",
+      "Chapati",
+      "Plain Rice",
+      "Plain Curd",
+      "Kalakand",
+      "Sambar",
+      "Tomato Chutney"
+    ],
+    "dinner": [
+      "Bhel with Sweet Chutney",
+      "Soya Handi",
+      "Egg Curry",
+      "Onion Pulao",
+      "Chapti",
+      "Rasam",
+      "Vegetable Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Mix Sprout Tadka",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Rawa Idli",
+      "Sabhar",
+      "Coconut Chutney",
+      "Water Melon",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Finger Chips",
+      "Kala Chana Masala",
+      "Curd/Butter",
+      "Aloo Paratha",
+      "Plain Rice",
+      "Sambhar",
+      "Pyaaz Ki Chutney"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Dahi Arbi",
+      "Dal Tadka",
+      "Chapati",
+      "Plain Rice",
+      "Boondi Ladoo",
+      "Rasam",
+      "Veg Manchow",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Chana Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Make Your Own S/W",
+      "Tomato Ketchup",
+      "Banana",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion Salad",
+      "Kadai Paneer",
+      "Chicken Home Style",
+      "Naan/Chapati(ltd)",
+      "Veg Pulao",
+      "Burhani Raita",
+      "Sambar",
+      "Lahsun Chutney (dry)"
+    ],
+    "dinner": [
+      "Corn Tikki",
+      "Veg Kolhapuri",
+      "Dhaba Dal",
+      "Chapati",
+      "Plain Rice",
+      "Fruit Custard",
+      "Rasam",
+      "Tomato Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moth Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Moong Dal Chilla",
+      "Sweet Daliya",
+      "Green Chutney",
+      "Pineapple",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Kala Chana Chaat (sweet Chutney)",
+      "Aloo Mutter",
+      "Rajma Masala",
+      "Dal Tadka",
+      "Chapati",
+      "Plain Rice",
+      "Coconut Burfi",
+      "Plain Curd",
+      "Sambar",
+      "Tomato Chutney"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Mix Veg Dry",
+      "Dal Amritsari",
+      "Chapati",
+      "Plain Rice",
+      "Rasam",
+      "Lemon Corinder Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "day": "Tuesday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moong Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Aloo Bhaji",
+      "Palak Poori",
+      "Lemon + Onion",
+      "Kinnow",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Dahi Wada , Sweet/Green Chutney",
+      "Soya Handi",
+      "Palak Corn(extra Corn)( 50-50)",
+      "Dal Fry",
+      "Chapati",
+      "Plain Rice",
+      "Sambar",
+      "Pyaaz Ki Chutney"
+    ],
+    "dinner": [
+      "Mirch Ke Tapore/Lahsun Chutney",
+      "Aloo Rassa",
+      "Dal Tadka",
+      "Chapati/Bati",
+      "Plain Rice",
+      "Rasam",
+      "Churma",
+      "Vegetable Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Soya Bean Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Seviya Upma",
+      "Adrak Chutney",
+      "Papaya",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion Salad",
+      "Paneer Korma",
+      "Chicken Biryani",
+      "Chapati",
+      "Onion Pulao",
+      "Boondi Raita",
+      "Chocolate Burfi",
+      "Sambar",
+      "Lahsun Chutney (dry)"
+    ],
+    "dinner": [
+      "Lemon + Onion",
+      "Khattta Meetha Pumpkin",
+      "Chole Masala",
+      "Kulcha",
+      "Jeera Rice",
+      "Rasam",
+      "Rasam",
+      "Sweet Corn Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moth Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Mix Veg Paratha",
+      "Curd",
+      "Tomato Ketchup",
+      "Grapes",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Beetroot Kebab/Dhaniya Chutney",
+      "Raw Banana Masala",
+      "Mix Kathol",
+      "Dal Panchratan",
+      "Chapati",
+      "Plain Rice",
+      "Onion Mint Raita",
+      "Sambar",
+      "Tomato Chutney"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Gatta Curry",
+      "Dal Makhani",
+      "Chapati",
+      "VEG/Egg Fried Rice",
+      "Rasam",
+      "Gulab Jamun",
+      "Tomato Soup",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Soya Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Masala Dosa",
+      "Sambhar",
+      "Coconut Chutney",
+      "Water Melon",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Peanut Salad",
+      "Mix Veg Dry",
+      "Methi Mutter Malai",
+      "Dal Dhaba",
+      "Chapati",
+      "Plain Rice",
+      "Plain Curd",
+      "Sambar",
+      "Pyaaz Ki Chutney"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Soya Chaap",
+      "Egg Curry",
+      "Peas Pulao",
+      "Chapti",
+      "Rasam",
+      "Jalebi",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Mix Sprout Tadka",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Mix Veg Poha",
+      "Sev",
+      "Lemon + Onion",
+      "Banana",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Crispy Corn",
+      "Ragda",
+      "Curd/Butter",
+      "Mix Veg. Paratha",
+      "Plain Rice",
+      "Sambhar",
+      "Lahsun Chutney (dry)"
+    ],
+    "dinner": [
+      "Green Salad (cucmber, Onion, Beet Root, Carrot)",
+      "Veg Makhan Wala",
+      "Dal Black Masoor",
+      "Chapati",
+      "Plain Rice",
+      "Sevian Kheer",
+      "Rasam",
+      "Veg Manchow",
+      "Lahsun Chutney"
     ]
   }
 ]
