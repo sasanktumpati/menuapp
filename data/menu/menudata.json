@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-02-15",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Soya Sprout",
-      "Corn Flakes",
-      "Bread + Butter + Jam",
-      "Mix Veg Poha",
-      "Sev",
-      "Lemon + Onion",
-      "Cut Apple",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Sabudana Wada",
-      "Mutter Paneer",
-      "Dal Makhani",
-      "Palak/Plain Puri",
-      "Navratan Pulao",
-      "Mix Veg Raita",
-      "Gajar Ka Halwa"
-    ],
-    "dinner": [
-      "Gajar Mutter",
-      "Dhaba Dal",
-      "Chapati",
-      "Plain Rice",
-      "Hot Badam Milk",
-      "Rasam",
-      "Veg Clear Soup",
-      "Lahsun Ki Chutney"
-    ]
-  },
-  {
     "date": "2026-02-16",
     "day": "Monday",
     "breakfast": [
@@ -94,7 +59,7 @@
       "Dal Fry",
       "Chapati",
       "Plain Rice",
-      "Plain Curd",
+      "Masala Chaas",
       "Sambar",
       "Tomato Chutney"
     ],
@@ -104,7 +69,6 @@
       "Dal Amritsari",
       "Chapati",
       "Plain Rice",
-      "Lemon Corinder Soup",
       "Rasam",
       "Shahi Tukda",
       "Lahsun Chutney"
@@ -143,7 +107,6 @@
       "Chapati",
       "VEG/Egg Fried Rice",
       "Rasam",
-      "Sweet Corn Soup",
       "Lahsun Chutney"
     ]
   },
@@ -169,6 +132,7 @@
       "Chapati",
       "Plain Rice",
       "Plain Curd",
+      "Rooh Afza",
       "Sambar",
       "Lahsun Chutney (dry)"
     ],
@@ -206,7 +170,7 @@
       "Veg Khichidi",
       "Chapati",
       "Plain Rice",
-      "Plain Curd",
+      "Plain Lassi",
       "Kalakand",
       "Sambar",
       "Tomato Chutney"
@@ -218,7 +182,6 @@
       "Onion Pulao",
       "Chapti",
       "Rasam",
-      "Vegetable Soup",
       "Lahsun Chutney"
     ]
   },
@@ -243,6 +206,7 @@
       "Curd/Butter",
       "Aloo Paratha",
       "Plain Rice",
+      "Oange Sharbet",
       "Sambhar",
       "Pyaaz Ki Chutney"
     ],
@@ -254,7 +218,6 @@
       "Plain Rice",
       "Boondi Ladoo",
       "Rasam",
-      "Veg Manchow",
       "Lahsun Chutney"
     ]
   },
@@ -279,6 +242,7 @@
       "Naan/Chapati(ltd)",
       "Veg Pulao",
       "Burhani Raita",
+      "Shikanji",
       "Sambar",
       "Lahsun Chutney (dry)"
     ],
@@ -290,7 +254,6 @@
       "Plain Rice",
       "Fruit Custard",
       "Rasam",
-      "Tomato Soup",
       "Lahsun Chutney"
     ]
   },
@@ -317,7 +280,7 @@
       "Chapati",
       "Plain Rice",
       "Coconut Burfi",
-      "Plain Curd",
+      "Mango Lassi",
       "Sambar",
       "Tomato Chutney"
     ],
@@ -328,7 +291,6 @@
       "Chapati",
       "Plain Rice",
       "Rasam",
-      "Lemon Corinder Soup",
       "Lahsun Chutney"
     ]
   },
@@ -354,6 +316,7 @@
       "Dal Fry",
       "Chapati",
       "Plain Rice",
+      "Rose Lemonade",
       "Sambar",
       "Pyaaz Ki Chutney"
     ],
@@ -365,7 +328,6 @@
       "Plain Rice",
       "Rasam",
       "Churma",
-      "Vegetable Soup",
       "Lahsun Chutney"
     ]
   },
@@ -402,7 +364,6 @@
       "Jeera Rice",
       "Rasam",
       "Rasam",
-      "Sweet Corn Soup",
       "Lahsun Chutney"
     ]
   },
@@ -429,6 +390,7 @@
       "Chapati",
       "Plain Rice",
       "Onion Mint Raita",
+      "Khas Sharbet",
       "Sambar",
       "Tomato Chutney"
     ],
@@ -440,7 +402,6 @@
       "VEG/Egg Fried Rice",
       "Rasam",
       "Gulab Jamun",
-      "Tomato Soup",
       "Lahsun Chutney"
     ]
   },
@@ -462,11 +423,11 @@
     "lunch": [
       "Peanut Salad",
       "Mix Veg Dry",
-      "Methi Mutter Malai",
+      "Methi Mutter Malai(in White Gravy)",
       "Dal Dhaba",
       "Chapati",
       "Plain Rice",
-      "Plain Curd",
+      "Strwbrry Lassi",
       "Sambar",
       "Pyaaz Ki Chutney"
     ],
@@ -502,6 +463,7 @@
       "Curd/Butter",
       "Mix Veg. Paratha",
       "Plain Rice",
+      "Rasna",
       "Sambhar",
       "Lahsun Chutney (dry)"
     ],
@@ -513,7 +475,6 @@
       "Plain Rice",
       "Sevian Kheer",
       "Rasam",
-      "Veg Manchow",
       "Lahsun Chutney"
     ]
   }
