@@ -11,8 +11,8 @@
       "type": "lunch"
     },
     "dinner": {
-      "start": "18:30",
-      "end": "20:00",
+      "start": "19:15",
+      "end": "20:30",
       "type": "dinner"
     }
   },
@@ -28,15 +28,15 @@
       "type": "lunch"
     },
     "dinner": {
-      "start": "18:30",
-      "end": "20:00",
+      "start": "19:15",
+      "end": "20:30",
       "type": "dinner"
     }
   },
   "special_days": [],
   "meta": {
     "timezone": "Asia/Kolkata",
-    "last_updated": "2026-01-28",
+    "last_updated": "2026-02-25",
     "version": "1.0"
   }
 }
