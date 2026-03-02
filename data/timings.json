@@ -33,10 +33,32 @@
       "type": "dinner"
     }
   },
-  "special_days": [],
+  "special_days": [
+    {
+      "date": "2026-03-02",
+      "name": "Holika Dahan",
+      "timings": {
+        "breakfast": {
+          "start": "07:30",
+          "end": "09:30",
+          "type": "breakfast"
+        },
+        "lunch": {
+          "start": "11:30",
+          "end": "13:30",
+          "type": "lunch"
+        },
+        "dinner": {
+          "start": "19:15",
+          "end": "20:15",
+          "type": "dinner"
+        }
+      }
+    }
+  ],
   "meta": {
     "timezone": "Asia/Kolkata",
-    "last_updated": "2026-02-25",
+    "last_updated": "2026-03-02",
     "version": "1.0"
   }
 }
