@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-03-21",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of Egg",
-      "Moth Sprout Tadka",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Veg Poha",
-      "Sev",
-      "Lemon + Onion",
-      "Water Melon",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Crispy Corn",
-      "White Mutter M/S",
-      "Curd/Butter",
-      "Aloo Paratha",
-      "Plain Rice",
-      "Sambar",
-      "Lahsun Ki Chutney",
-      "Boondi Jaljeera"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Aloo Capsicum (mashed Potato )",
-      "Green Moong Dal Tadka",
-      "Chapati",
-      "Plain Rice",
-      "Rasam",
-      "Lahsun Ki Chutney",
-      "Shahi Tukda"
-    ]
-  },
-  {
     "date": "2026-03-22",
     "day": "Sunday",
     "breakfast": [
@@ -102,7 +66,7 @@
       "Lemon + Onion",
       "Kacche Aam Ki Laungi",
       "Chole Masala",
-      "Bhature",
+      "Puri",
       "Jeera Rice",
       "Rasam",
       "Lahsun Chutney"
@@ -118,7 +82,7 @@
       "Bread + Butter + Jam",
       "Seviya Upma",
       "Adrak Chutney",
-      "Sarda",
+      "Sun Melon",
       "Tea + Coffee + Bv",
       "Milk"
     ],
@@ -138,7 +102,7 @@
       "Green Salad",
       "Cabbage Mutter",
       "Dal Makhani",
-      "Bhature",
+      "Chapati",
       "Jeera Rice",
       "Rasam",
       "Besan Ladoo",
@@ -156,7 +120,7 @@
       "Misal",
       "Pav",
       "Lemon + Onion",
-      "Grapes ( Black )",
+      "Grapes",
       "Tea + Coffee + Bv",
       "Milk"
     ],
@@ -197,7 +161,7 @@
       "Milk"
     ],
     "lunch": [
-      "Sabudana Wada",
+      "Sabudana Khichdi",
       "Kosambari Salad",
       "Paneer Rezala ( White Garvy)",
       "Dal Panchratna",
@@ -302,7 +266,7 @@
       "Rawa Idli",
       "Sabhar",
       "Coconut Chutney",
-      "Sarda",
+      "Sun Melon",
       "Tea + Coffee + Bv",
       "Milk"
     ],
@@ -361,7 +325,7 @@
       "Dal Panchratan",
       "Chapati",
       "Plain Rice",
-      "Rasams",
+      "Rasam",
       "Kesari Sheera",
       "Lahsun Chutney"
     ]
@@ -374,9 +338,9 @@
       "Moong Sprout",
       "Cornflakes",
       "Bread + Butter + Jam",
-      "Masala Dosa",
-      "Sambhar",
-      "Coconut Chutney",
+      "Make Yor Own Coleslaw S/W",
+      "Tomato Ketchup",
+      "Sweet Daliya",
       "Water Melon",
       "Tea + Coffee + Bv",
       "Milk"
