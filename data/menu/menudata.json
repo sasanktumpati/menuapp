@@ -167,7 +167,7 @@
     "lunch": [
       "Mix Bhajiya",
       "Mix Veg Dry",
-      "Veg Kofta Curry",
+      "Gutta Curry",
       "Dal Fry",
       "Chapati",
       "Plain Rice",
@@ -201,14 +201,14 @@
       "Milk"
     ],
     "lunch": [
-      "Raw Banana Masala",
-      "Gatta Curry",
-      "Dal Panchratan",
-      "Chapati",
-      "Plain Rice",
-      "Plain Curd",
+      "Paneer Pakoda",
+      "Malai Kofta",
+      "Dal Makhani",
+      "Mix Veg Raita",
+      "Garlic Naan/Chapati",
+      "Kashmiri Pulao",
       "Black Current I/C",
-      "Sambar",
+      "Mix Veg Raita",
       "Boondi Jal Jeera",
       "Lahsun Chutney (dry)"
     ],
@@ -246,6 +246,7 @@
       "Boondi Raita",
       "Ice Tea",
       "Sambar",
+      "Gulab Jamun",
       "Tomato Chutney"
     ],
     "dinner": [
