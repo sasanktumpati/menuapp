@@ -1,43 +1,5 @@
 [
   {
-    "date": "2026-04-15",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Moth Sprout",
-      "Chocos",
-      "Bread + Butter + Jam",
-      "Plain Idli",
-      "Sabhar",
-      "Coconut Chutney",
-      "Banana",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion Salad",
-      "Paneer Lababdar",
-      "Chicken Xacuti",
-      "Chapati",
-      "Onion Pulao",
-      "Boondi Raita",
-      "Ice Tea",
-      "Sambar",
-      "Gulab Jamun",
-      "Tomato Chutney"
-    ],
-    "dinner": [
-      "Papdi Chaat with Sweet Chutney",
-      "Methi Mutter Malai (white Gravy)",
-      "Dal Maharani",
-      "Chapati",
-      "Jeera Rice",
-      "Rasam",
-      "Cold Badam Milk",
-      "Lahsun Chutney"
-    ]
-  },
-  {
     "date": "2026-04-16",
     "day": "Thursday",
     "breakfast": [
@@ -67,7 +29,7 @@
     "dinner": [
       "Khim Chi Salad",
       "Veg Manchurian",
-      "Dal Maharani",
+      "Dal Maharani (urad Sabut)",
       "Chapati",
       "VEG/Egg Fried Rice",
       "Rasam",
@@ -93,7 +55,7 @@
       "Dahi Wada/Sweet & Green Chutney",
       "Baingan Bharta",
       "Lobiya Masala",
-      "Dal Tadka",
+      "Dal Tadka (arhar + Red Masoor)",
       "Chapati",
       "Plain Rice",
       "Plain Curd",
@@ -140,7 +102,7 @@
     "dinner": [
       "Green Salad (cucmber, Onion, Beet Root,tomato )",
       "Dahi Arbi",
-      "Dal Tadka",
+      "Dal Tadka (arhar + Red Masoor)",
       "Chapati",
       "Plain Rice",
       "Rasam",
@@ -156,7 +118,7 @@
       "Boiled Chana Sprout",
       "Chocos",
       "Bread + Butter + Jam",
-      "Make Your Own Cloeslow S/W",
+      "Make Your Own Colslow S/W",
       "Sweet Daliya",
       "Tomato Ketchup",
       "Papaya",
@@ -178,7 +140,7 @@
     "dinner": [
       "Corn Salad (sep. Onion + Tomato + Chaat Masala)",
       "Veg Kolhapuri",
-      "Dal Makhani",
+      "Dal Makhani (urad Sabut + Chana Dal + Rajma)",
       "Chapati",
       "Plain Rice",
       "Rasam",
@@ -203,8 +165,8 @@
     "lunch": [
       "Hara Bhara Kebab",
       "Soya Handi",
-      "Palak Corn(extra Corn)( 50-50)",
-      "Dal Fry",
+      "Palak Corn (extra Corn)( 50-50)",
+      "Dal Fry (chana Dal + Moong Dhuli)",
       "Chapati",
       "Plain Rice",
       "Plain Curd",
@@ -241,7 +203,7 @@
       "Macroni Salad",
       "Lauki Chana Masala",
       "Rajma Masala",
-      "Dal Panchratan",
+      "Dal Panchratan (chana Dal + Urad Chilka + Red Masoor + Arhar Dal + Moong Chilka)",
       "Chapati",
       "Plain Rice",
       "Mango Lassi",
@@ -251,7 +213,7 @@
     "dinner": [
       "Mirch Ke Tapore",
       "Aloo Rassa",
-      "Dhaba Dal",
+      "Dal Dhaba (chana Dal + Urad Chilka + Black Masoor)",
       "Bati/Chapati(ltd)",
       "Jeera Rice",
       "Rasam",
@@ -277,7 +239,7 @@
     "lunch": [
       "Onion Salad",
       "Palak Paneer",
-      "Chicken Biryani (biryani Rice)",
+      "Chicken Biryani (basmati Rice)",
       "Chapati",
       "Onion Pulao",
       "Mix Veg Raita",
@@ -351,6 +313,7 @@
       "Paneer Korma",
       "Chicken Kukupaka",
       "Naan/Chapati",
+      "Navratan Pulao (rice Not Confirm)",
       "Boondi Raita",
       "Rose Lemonade",
       "Sambhar",
@@ -387,6 +350,7 @@
       "Ragda Mutter",
       "Curd/Butter",
       "Mix Veg Paratha/Chapati",
+      "Plain Rice",
       "Aam Panna",
       "Sambhar",
       "Lahsun Chutney (dry)"
@@ -407,7 +371,7 @@
     "day": "Sunday",
     "breakfast": [
       "Choice of Egg",
-      "Boiled Mix Sprout Tadka",
+      "Boiled Moong Sprout",
       "Cornflakes",
       "Bread + Butter + Jam",
       "Seviya Upma",
@@ -421,7 +385,7 @@
       "Peanut Salad",
       "Lauki Chana Dry",
       "Veg Kofta Curry",
-      "Dal Dhaba",
+      "Dal Dhaba (chana Dal + Urad Chilka + Black Masoor)",
       "Chapati",
       "Plain Rice",
       "Plain Curd",
@@ -450,7 +414,7 @@
       "Mix Bhajiya",
       "Mix Veg Dry",
       "Methi Mutter Malai(in White Gravy)",
-      "Dal Fry",
+      "Dal Fry (chana Dal + Moong Dhuli)",
       "Chapati",
       "Plain Rice",
       "Tang",
@@ -460,7 +424,7 @@
     "dinner": [
       "Green Salad (cucmber, Onion, Beet Root,tomato )",
       "Dum Aloo Kashmiri",
-      "Dal Amritsari",
+      "Dal Amritsari (sabut Urad Dal + Chana Dal)",
       "Chapati",
       "Plain Rice",
       "Rasam",
@@ -487,7 +451,7 @@
       "Beetroot Tikki",
       "Kathal Masala",
       "Gatta Curry",
-      "Dal Panchratan",
+      "Dal Panchratan (chana Dal + Urad Chilka + Red Masoor + Arhar Dal + Moong Chilka)",
       "Chapati",
       "Plain Rice",
       "Plain Curd",
@@ -534,9 +498,9 @@
     "dinner": [
       "Papdi Chaat with Sweet Chutney",
       "Methi Mutter Malai (white Gravy)",
-      "Dal Maharani",
+      "Dal Maharani (urad Sabut)",
       "Chapati",
-      "Jeera Rice",
+      "Plain Rice",
       "Rasam",
       "Mango Milk Shake",
       "Lahsun Chutney"
@@ -547,7 +511,7 @@
     "day": "Thursday",
     "breakfast": [
       "Choice of Egg",
-      "Boiled Moong Sprout",
+      "Boiled Mix Sprout Tadka",
       "Cornflakes",
       "Bread + Butter + Jam",
       "Veg Upma",
