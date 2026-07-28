@@ -1,442 +1,185 @@
 [
   {
-    "date": "2026-05-19",
-    "day": "Tuesday",
+    "date": "2026-07-27",
+    "day": "Monday",
     "breakfast": [
-      "Choice of Egg (2 Eggs)",
+      "Choice of Egg",
+      "Boiled Moth Sprout",
       "Cornflakes",
       "Bread + Butter + Jam",
       "Veg Poha",
-      "Sev Bhuija",
+      "Lemon + Onion",
+      "Water Melon",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Green Salad",
+      "Lauki Chana Dry",
+      "Rajma Masala",
+      "Dal Panchratan",
+      "Chapati",
+      "Palin Ricde",
+      "Curd",
+      "Sambhar",
+      "Onion Raita",
+      "Tomato Chutney"
+    ],
+    "dinner": [
+      "Green Salad",
+      "Dum Aloo Kashmiri",
+      "Dal Triveni",
+      "Chapati",
+      "Plain Rice",
+      "Rasam",
+      "Seviya Kheer",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Moong Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Aloo Bhaji",
+      "Bedmi Puri",
       "Lemon + Onion",
       "Banana",
-      "Tea & Coffee",
-      "Milk (250ml)"
+      "Tea + Coffee + Bv",
+      "Milk"
     ],
     "lunch": [
-      "Green Salad",
+      "Microni Salad",
+      "Mix Veg",
       "Gutta Curry",
-      "Louki Masala",
-      "Moong Dal Tadka",
+      "Dal Fry",
       "Chapati",
-      "Sambar",
       "Plain Rice",
-      "Masala Chhach",
-      "Pickle & Ghilli Garlic Chutney"
+      "Masala Chaas",
+      "Sambhar",
+      "Pyaaz Ki Chutney"
     ],
     "dinner": [
-      "Green Salad",
-      "Punjabi Chole",
-      "Dal Moong",
-      "Poori",
+      "Lemon + Onion",
+      "Jeera Aloo",
+      "Chole Masala",
+      "Puri/Chapati",
       "Jeera Rice",
-      "Rice Kheer",
-      "Pickle & Ghilli Garlic Chutney"
+      "Rasam",
+      "Lahsun Chutney"
     ]
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-07-29",
     "day": "Wednesday",
     "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Masala S/W",
-      "Sweet Daliya",
-      "Tomato Ketchup",
-      "Papaya",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Mutter Paneer",
-      "Butter Chicken",
-      "Chapati",
-      "Navratan Pulao",
-      "Onion Mint Raita",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Bhindi Masala",
-      "Dal Makhni",
-      "Chapati",
-      "Plain Rice",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
+      "Choice of Egg",
+      "Boiled Soya Bean Sprout",
       "Cornflakes",
       "Bread + Butter + Jam",
       "Veg Upma",
       "Sweet Daliya",
       "Tomato Chutney",
-      "Water Melon",
-      "Tea & Coffee",
-      "Milk (250ml)"
+      "Papaya",
+      "Tea + Coffee + Bv",
+      "Milk"
     ],
     "lunch": [
-      "Green Salad",
-      "Kadhi Pakoda",
-      "Jeera Aloo",
-      "Roasted Papad",
+      "Onion Salad",
+      "Mutter Paneer",
+      "Chicken Curry",
       "Chapati",
-      "Sambar",
-      "Plain Rice",
-      "Butter Scotch I/C",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Mix Veg.",
-      "Moong Dal Fry",
-      "Chapati",
-      "Lemon Rice",
-      "Rose Lemonade",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Rawa Idli",
-      "Sambar",
-      "Coconut Chutney",
-      "Cut Mango",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Veg. Kofta Curry",
-      "Tinda Masala",
-      "Chana Dal Tadka",
-      "Chapati",
-      "Sambar",
-      "Plain Rice",
-      "Shikanji",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Dahi Arbi",
-      "Rajma Rasheela",
-      "Chapati",
-      "Plain Rice",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Veg Poha",
-      "Sev Bhuija",
-      "Lemon + Onion",
-      "Banana",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Black Chana Masala",
-      "Aloo Paratha",
-      "Onion Pakoda",
-      "Chapati",
-      "Sambar",
-      "Plain Rice",
-      "Plain Curd",
-      "Pickle & Ghilli Garlic Chutney"
+      "Onion Pulao",
+      "Mix Veg Raita",
+      "Sambhar",
+      "Orange Sharbet",
+      "Lahsun Chutney (dry)"
     ],
     "dinner": [
       "Green Salad",
       "Veg Kolhapuri",
-      "Dhaba Dal",
+      "Balck Masoor Sabut Tadka",
       "Chapati",
       "Plain Rice",
-      "Gulab Jamun",
-      "Pickle & Ghilli Garlic Chutney"
+      "Rasam",
+      "Suji Halwa",
+      "Lahsun Chutney"
     ]
   },
   {
-    "date": "2026-05-24",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Masala Dosa",
-      "Sambar",
-      "Coconut Chutney",
-      "Musk Melon",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Paneer Lababdar",
-      "Chicken Chettinad",
-      "Chapati",
-      "Biryani Pulav",
-      "Boondi Raita",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Methi Matar Malayi",
-      "Dal Amritsari",
-      "Chapati",
-      "Plain Rice",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Pav",
-      "Bhaji",
-      "Lemon + Onion + Green Chilli",
-      "Papaya",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Sev Tomato",
-      "Turai Masala",
-      "Rajma Masala",
-      "Chapati",
-      "Sambar",
-      "Plain Rice",
-      "Keri Panna",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Bhindi Masala",
-      "Dhaba Dal",
-      "Chapati",
-      "Jeera Rice",
-      "Cold Badam Milk",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "day": "Tuesday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Aloo Paratha",
-      "Plain Curd",
-      "Mix Pickel",
-      "Water Melon",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Gutta Curry",
-      "Louki Masala",
-      "Dal Masur Black",
-      "Chapati",
-      "Sambar",
-      "Jeera Rice",
-      "Strawberry Lassi",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Punjabi Chole",
-      "Dal Tadka",
-      "Poori",
-      "Jeera Rice",
-      "Sevian Kheer",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Uttapam",
-      "Sambhar",
-      "Coconut Chutney",
-      "Cut Mango",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Mutter Paneer",
-      "Chicken Curry",
-      "Chapati",
-      "Navratan Pulav",
-      "Cucumber Raita",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Malai Kofta",
-      "Dal Black Masoor",
-      "Chapati",
-      "Plain Rice",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-28",
+    "date": "2026-07-30",
     "day": "Thursday",
     "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
+      "Choice of Egg",
+      "Boiled Moth Sprout",
+      "Chocos",
       "Bread + Butter + Jam",
-      "Masala S/W",
-      "Sweet Daliya",
-      "Tomato Ketchup",
-      "Banana",
-      "Tea & Coffee",
-      "Milk (250ml)"
+      "Idli",
+      "Sambhar",
+      "Coconut Chutey",
+      "Pine Apple",
+      "Tea + Coffee + Bv",
+      "Milk"
     ],
     "lunch": [
-      "Green Salad",
+      "Roasted Papad",
       "Madrasi Aloo",
       "Kadhi Pakoda",
-      "Fryums",
+      "Veg Khichdi",
       "Chapati",
-      "Sambar",
       "Plain Rice",
-      "Shikanji",
-      "Pickle & Ghilli Garlic Chutney"
+      "Curd",
+      "Sambhar",
+      "Tomato Chutney"
     ],
     "dinner": [
       "Green Salad",
-      "Kathal Ki Sabji",
+      "Veg Kota Curry",
+      "Moong Dal Tadka",
+      "Chapati",
+      "Plain Rice",
+      "Rasam",
+      "Lahsun Chutney"
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of Egg",
+      "Boiled Soya Sprout",
+      "Cornflakes",
+      "Bread + Butter + Jam",
+      "Methi Thepla",
+      "Dry Aloo Bhaji",
+      "Coconut Chutney",
+      "Banana",
+      "Tea + Coffee + Bv",
+      "Milk"
+    ],
+    "lunch": [
+      "Green Salad",
+      "Aloo Mutter Dry",
+      "Mix Kathol",
+      "Red Masoor Dal",
+      "Chapati",
+      "Plain Rice",
+      "Boondi Raita",
+      "Sambhar",
+      "Pyaaz Ki Chutney"
+    ],
+    "dinner": [
+      "Green Salad",
+      "Soya Handi",
       "Dal Maharani",
       "Chapti",
       "Plain Rice",
-      "Rasgulla",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-29",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Seviya Upma",
-      "Adrak Chutney",
-      "Musk Melon",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Mix Veg Dry",
-      "Methi Mutter Malai",
-      "Dal Dhaba",
-      "Chapati",
-      "Sambar",
-      "Plain Rice",
-      "Straberry I/C",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Veg Makhan Wala",
-      "Dal Makhani",
-      "Chapati",
-      "Plain Rice",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-30",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Mix Veg Poha",
-      "Sev",
-      "Lemon + Onion",
-      "Papaya",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Ragda Mutter",
-      "Hara Bhara Kabab",
-      "Aloo Paratha",
-      "Sambar",
-      "Plain Rice",
-      "Plain Curd",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Mix Veg Dry",
-      "Dal Amritsari",
-      "Chapati",
-      "Plain Rice",
-      "Orange Drink",
-      "Pickle & Ghilli Garlic Chutney"
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of Egg (2 Eggs)",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Masala Dosa",
-      "Sambar",
-      "Coconut Chutney",
-      "Water Melon",
-      "Tea & Coffee",
-      "Milk (250ml)"
-    ],
-    "lunch": [
-      "Green Salad",
-      "Kadhai Paneer",
-      "Kadhai Chicken",
-      "Chapati",
-      "Veg Pulav",
-      "Mix Veg Raita",
-      "Pickle & Ghilli Garlic Chutney"
-    ],
-    "dinner": [
-      "Green Salad",
-      "Dahi Aloo",
-      "Chana Dal Tadka",
-      "Chapati",
-      "Jeera Rice",
-      "Shahi Tukda",
-      "Pickle & Ghilli Garlic Chutney"
+      "Rasam",
+      "Fruit Custard",
+      "Lahsun Chutney"
     ]
   }
 ]
