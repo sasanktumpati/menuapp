@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "breakfast": [
-      "Choice of Egg",
-      "Rajma Sprout",
-      "Chocos",
-      "Bread + Butter + Jam",
-      "Mutter Kulcha",
-      "Onion + Lemon",
-      "Watermelon",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Peanut Chaat",
-      "Jeera Aloo",
-      "Gatta Curry",
-      "Dhaba Style Dal",
-      "Chapati",
-      "Plain Rice",
-      "Sambar",
-      "Masala Chaas",
-      "Pyaaz Ki Chutney"
-    ],
-    "dinner": [
-      "Lemon + Onion",
-      "Khattta Meetha Pumpkin",
-      "Chole Masala",
-      "Puri",
-      "Jeera Rice",
-      "Rasam",
-      "Dry Fruit Sheera",
-      "Tomato Chutney"
-    ]
-  },
-  {
     "date": "2026-08-26",
     "day": "Wednesday",
     "breakfast": [
@@ -173,7 +137,7 @@
     "dinner": [
       "Mirch Ke Tapore/Lahsun Chutney",
       "Dahi Aloo",
-      "Black Masoor Dal",
+      "Chana Moong Dal",
       "Chapati/Bati",
       "Plain Rice",
       "Rasam",
@@ -210,7 +174,7 @@
     "dinner": [
       "Green Salad (cucumber, Beet Root, Onion)",
       "Sev Tomato",
-      "Chana Dal Tadka",
+      "Black Masoor Dal",
       "Chapati",
       "Plain Rice",
       "Rasam",
@@ -237,7 +201,7 @@
       "Macroni Salad",
       "Cabbage Mutter",
       "Rajma Rasheela",
-      "Plain Rice",
+      "Red Masoor Dal",
       "Chapati",
       "Plain Rice",
       "Plain Curd",
