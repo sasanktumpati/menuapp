@@ -1,43 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Mix Sprout Tadka",
-      "Chocos",
-      "Bread + Butter + Jam",
-      "Methi Paratha",
-      "Aloo Bhaji (dry)",
-      "Onion + Lemon",
-      "Banana",
-      "Tea + Coffee + Bv",
-      "Milk"
-    ],
-    "lunch": [
-      "Macroni Salad",
-      "Cabbage Mutter",
-      "Rajma Rasheela",
-      "Red Masoor Dal",
-      "Chapati",
-      "Plain Rice",
-      "Plain Curd",
-      "Motichoor Ladoo (barik Boondi)",
-      "Sambhar",
-      "Mix Blast",
-      "Lahsun Chutney"
-    ],
-    "dinner": [
-      "Corn Tikki",
-      "Veg Kofta",
-      "Moong Dal Tadka",
-      "Chapati",
-      "Plain Rice",
-      "Rasam",
-      "Tomato Chutney"
-    ]
-  },
-  {
     "date": "2026-09-01",
     "day": "Tuesday",
     "breakfast": [
@@ -133,19 +95,17 @@
       "Dal Fry",
       "Chapati",
       "Plain Rice",
-      "Sambar",
       "Chocochip Ice Cream",
       "Sambar",
       "Tang (less Sugar) + Seprate Sugar)",
       "Lahsun Chutney (dry)"
     ],
     "dinner": [
-      "Onion Salad",
-      "Tofu Masala",
-      "Egg Curry",
-      "Butter Dal Tadka",
-      "Peas Pulao",
-      "Chapti",
+      "Green Salad (cucumber, Beet Root, Onion)",
+      "Kurkuri Bhindi",
+      "Red Masoor Dal",
+      "Chapati",
+      "Plain Rice",
       "Rasam",
       "Pyaaz Ki Chutney"
     ]
@@ -177,11 +137,12 @@
       "Pyaaz Ki Chutney"
     ],
     "dinner": [
-      "Green Salad (cucumber, Beet Root, Onion)",
-      "Kurkuri Bhindi",
-      "Red Masoor Dal",
+      "Onion Salad",
+      "Tofu Masala",
+      "Egg Curry",
+      "Butter Dal Tadka",
+      "Peas Pulao",
       "Chapati",
-      "Plain Rice",
       "Rasam",
       "Lahsun Chutney"
     ]
@@ -365,10 +326,7 @@
       "Chapati",
       "Plain Rice",
       "Rasam",
-      "Pyaaz Ki Chutney",
-      "Onion Tomato Utappam",
-      "Sambhar",
-      "Coconut Chutney"
+      "Pyaaz Ki Chutney"
     ]
   },
   {
@@ -402,7 +360,7 @@
       "Lobiya Masala",
       "Butter Dal Tadka (arhar Dal)",
       "Veg Fried Rice",
-      "Chapti",
+      "Chapati",
       "Rasam",
       "Cold Rose Milk",
       "Lahsun Chutney"
@@ -441,7 +399,7 @@
       "Egg Curry",
       "Mix Dal Tadka",
       "Peas Pulao",
-      "Chapti",
+      "Chapati",
       "Rasam",
       "Tomato Chutney"
     ]
