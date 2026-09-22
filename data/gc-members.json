@@ -1,62 +1,82 @@
 [
   {
     "name": "Ishwar Sarda",
-    "designation": "President | AMC ",
+    "designation": "President ",
     "contact": "7030924204"
   },
   {
     "name": "Ansh Tholia",
-    "designation": "Secretary | KG M-Rep",
+    "designation": "Secretary ",
     "contact": "7413882553"
   },
   {
     "name": "Divyansh Aggarwal",
-    "designation": "Treasurer | SV M-Rep",
+    "designation": "Treasurer ",
     "contact": "9463268501"
   },
   {
-    "name": "Varinay Agrawal",
+    "name": "Kavish",
     "designation": "RPA M-Rep",
-    "contact": "7905535664"
+    "contact": "6398990292"
   },
   {
-    "name": "Laksh Khetrapal",
+    "name": "Rajesh Yerni",
     "designation": "SR M-Rep",
-    "contact": "9311434463"
+    "contact": "8466837299"
   },
   {
-    "name": "Harshit Patwari",
+    "name": "Suyash Tyagi",
     "designation": "VKB M-Rep",
-    "contact": "7428735658"
+    "contact": "6397213616"
   },
   {
-    "name": "Shuchita Mishra",
+    "name": "Vidhi Lohia",
     "designation": "MB M-Rep",
-    "contact": "9045005475"
+    "contact": "9560046315"
   },
   {
-    "name": "Sannidhya Maheshwari",
+    "name": "Mohan Kumar Sinthoju",
     "designation": "CVR M-Rep",
-    "contact": "9630974930"
+    "contact": "9875875369"
   },
   {
-    "name": "Swarit Kachroo",
+    "name": "Garvit Verma",
     "designation": "RB M-Rep",
-    "contact": "7048903288"
+    "contact": "6386643195"
   },
   {
-    "name": "Urvi Singh",
-    "designation": "AMC",
-    "contact": "9318364085"
+    "name": "Eshan Ratnesh Srivastava",
+    "designation": "MAL M-Rep",
+    "contact": "8577839274"
   },
   {
-    "name": "Shreyas Anand",
-    "designation": "AMC",
-    "contact": "9910182448"
+    "name": "Vedansh Sharma",
+    "designation": "KG M-Rep",
+    "contact": "9166228107"
   },
   {
-    "name": "Shreyak Shintre",
+    "name": "Abhishek Kumar",
+    "designation": "SV M-Rep",
+    "contact": "9326072566"
+  },
+  {
+    "name": "Saksham Kamboj",
     "designation": "AMC",
-    "contact": "9657156993"
+    "contact": "9821657500"
+  },
+  {
+    "name": "Anish Somani",
+    "designation": "AMC",
+    "contact": "9137322069"
+  },
+  {
+    "name": "Arya Sibal",
+    "designation": "AMC",
+    "contact": "9173608396"
+  },
+  {
+    "name": "Pushti Shah",
+    "designation": "AMC",
+    "contact": "8320275936"
   }
 ]
