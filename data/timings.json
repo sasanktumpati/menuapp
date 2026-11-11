@@ -1,7 +1,7 @@
 {
   "default_timings": {
     "breakfast": {
-      "start": "07:30",
+      "start": "07:15",
       "end": "09:30",
       "type": "breakfast"
     },
@@ -36,7 +36,7 @@
   "special_days": [],
   "meta": {
     "timezone": "Asia/Kolkata",
-    "last_updated": "2026-03-02",
+    "last_updated": "2026-11-11",
     "version": "1.0"
   }
 }
