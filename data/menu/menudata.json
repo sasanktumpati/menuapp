@@ -1,42 +1,5 @@
 [
   {
-    "date": "2026-11-15",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of Egg",
-      "Boiled Soya Sprout",
-      "Cornflakes",
-      "Bread + Butter + Jam",
-      "Misal",
-      "Pav",
-      "Lemon + Onion",
-      "Cut Apple",
-      "Tea + Coffee + Bv ( Tea Masala Powder Sep)",
-      "Milk"
-    ],
-    "lunch": [
-      "Green Salad (cucumber, Beet Root, Onion)",
-      "Paneer Handi",
-      "Chicken Biryani",
-      "Garlic Naan/Chapati(limited)",
-      "Dum Biryani",
-      "Sambar",
-      "Boondi Raita",
-      "Khus Sharbat",
-      "Pyaaz Ki Chutney"
-    ],
-    "dinner": [
-      "Masala Fries",
-      "Veg Makhani",
-      "Tamato Dal (arhar Dal)",
-      "Chapati",
-      "Plain Rice",
-      "Rasam",
-      "Chocolate Barfi",
-      "Lahsun Chutney"
-    ]
-  },
-  {
     "date": "2026-11-16",
     "day": "Monday",
     "breakfast": [
@@ -292,7 +255,35 @@
       "Chapati",
       "Plain Rice",
       "Veg Clear Soup",
-      "Rasam"
+      "Rasam",
+      "Choice of Egg",
+      "Boiled Chana Sprout",
+      "Chocos",
+      "Bread + Butter + Jam",
+      "Veg Poha",
+      "Sweet Daliya",
+      "Sev",
+      "Banana",
+      "Tea + Coffee + Bv ( Tea Masala Powder Sep)",
+      "Milk",
+      "Grub",
+      "Koshimbir Salad (cucumber, Peanut, , Carrot,coconut )",
+      "Paneer Butter Masala",
+      "Dal Maharani",
+      "Naan/Chapati (ltd)",
+      "Peas Carrot Pulao",
+      "Masala Chaas",
+      "Chocolate Chip I/C",
+      "Tomato Chutney",
+      "Lemon + Onion",
+      "Jeera Aloo",
+      "Amritsari Chole",
+      "Kulcha/Chapati (ltd)",
+      "Plain Rice",
+      "Lemon Coriander Soup",
+      "Rasam",
+      "Pineapple Sheera",
+      "Pyaaz Ki Chutney"
     ]
   },
   {
@@ -338,36 +329,37 @@
     "day": "Tuesday",
     "breakfast": [
       "Choice of Egg",
-      "Boiled Chana Sprout",
+      "Moong Sprout (अंकुरित)",
       "Chocos",
       "Bread + Butter + Jam",
-      "Veg Poha",
+      "Stuff Kulcha",
       "Sweet Daliya",
-      "Sev",
-      "Banana",
+      "Onion + Lemon",
+      "Orange",
       "Tea + Coffee + Bv ( Tea Masala Powder Sep)",
       "Milk"
     ],
     "lunch": [
-      "Koshimbir Salad (cucumber, Peanut, , Carrot,coconut )",
-      "Paneer Butter Masala",
-      "Dal Maharani",
-      "Naan/Chapati (ltd)",
-      "Peas Carrot Pulao",
-      "Masala Chaas",
-      "Chocolate Chip I/C",
-      "Tomato Chutney"
+      "Masala Papad",
+      "Aloo Gobhi Mutter",
+      "Dahi Kadhi Pakoda",
+      "Moong Dal Khichdi",
+      "Chapati",
+      "Plain Rice",
+      "Sambar",
+      "Plain Curd",
+      "Lasun Chutney"
     ],
     "dinner": [
-      "Lemon + Onion",
-      "Jeera Aloo",
-      "Amritsari Chole",
-      "Kulcha/Chapati (ltd)",
+      "Mirch Ke Tappore",
+      "Aloo Rassa",
+      "Chana Dal Tadka",
+      "Chapati/Bati",
       "Plain Rice",
-      "Lemon Coriander Soup",
+      "Tomato Soup",
       "Rasam",
-      "Pineapple Sheera",
-      "Pyaaz Ki Chutney"
+      "Churma",
+      "Lasun Chutney"
     ]
   },
   {
@@ -412,37 +404,36 @@
     "day": "Thursday",
     "breakfast": [
       "Choice of Egg",
-      "Moong Sprout (अंकुरित)",
+      "Boiled Chana Sprout",
       "Chocos",
       "Bread + Butter + Jam",
-      "Stuff Kulcha",
+      "Veg Poha",
       "Sweet Daliya",
-      "Onion + Lemon",
-      "Orange",
+      "Sev",
+      "Banana",
       "Tea + Coffee + Bv ( Tea Masala Powder Sep)",
       "Milk"
     ],
     "lunch": [
-      "Masala Papad",
-      "Aloo Gobhi Mutter",
-      "Dahi Kadhi Pakoda",
-      "Moong Dal Khichdi",
-      "Chapati",
-      "Plain Rice",
-      "Sambar",
-      "Plain Curd",
-      "Lasun Chutney"
+      "Koshimbir Salad (cucumber, Peanut, , Carrot,coconut )",
+      "Paneer Butter Masala",
+      "Dal Maharani",
+      "Naan/Chapati (ltd)",
+      "Peas Carrot Pulao",
+      "Masala Chaas",
+      "Chocolate Chip I/C",
+      "Tomato Chutney"
     ],
     "dinner": [
-      "Mirch Ke Tappore",
-      "Aloo Rassa",
-      "Chana Dal Tadka",
-      "Chapati/Bati",
+      "Lemon + Onion",
+      "Jeera Aloo",
+      "Amritsari Chole",
+      "Kulcha/Chapati (ltd)",
       "Plain Rice",
-      "Tomato Soup",
+      "Lemon Coriander Soup",
       "Rasam",
-      "Churma",
-      "Lasun Chutney"
+      "Pineapple Sheera",
+      "Pyaaz Ki Chutney"
     ]
   },
   {
